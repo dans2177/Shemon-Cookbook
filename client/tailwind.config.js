@@ -4,7 +4,15 @@ module.exports = {
     "./public/index.html", // Process CSS in your HTML file
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        bebas: ["Bebas Neue", "cursive"],
+        montserrat: ["Montserrat", "sans-serif"],
+      },
+      colors: {
+        customBrown: "#88815F",
+      },
+    },
   },
   plugins: [],
 };
