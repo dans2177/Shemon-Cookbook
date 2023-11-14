@@ -1,52 +1,44 @@
-import React, { useState, useEffect } from "react";
-import { useParams, useNavigate } from "react-router-dom";
+import React from "react";
+import { Link } from "react-router-dom";
 
-const CategoryDetailPage = ({ recipes }) => {
-  const { categoryName } = useParams();
-  const navigate = useNavigate();
-
-  // Check if recipes is undefined or null
-  if (!recipes) {
-    return <div>Loading recipes...</div>;
-  }
-
-  // Extract unique Creators
-  const uniqueCreators = Array.from(
-    new Set(Object.values(recipes).map((recipe) => recipe.Creator))
-  );
-
-  const filteredRecipes = Object.entries(recipes).filter(
-    ([, recipe]) => recipe.Category === categoryName
-  );
-
+const CategoriesPage = ({ categories, authors }) => {
   return (
-    <div className="p-5">
-      <h2 className="text-2xl font-bold mb-3">Recipes in {categoryName}</h2>
-      <div className="grid grid-cols-3 gap-4">
-        {/* Column for Creators */}
-        <div>
-          <h3 className="text-lg font-semibold mb-2">Creators</h3>
-          <ul>
-            {uniqueCreators.map((creator, index) => (
-              <li key={index}>{creator}</li>
-            ))}
-          </ul>
-        </div>
-        {/* Column for Categories */}
-        <div>
-          <h3 className="text-lg font-semibold mb-2">Categories</h3>
-          <ul>
-            {filteredRecipes.map(([category], index) => (
-              <li key={index}>{category}</li>
-            ))}
-          </ul>
-        </div>
-
-        {/* Third Column (Empty) */}
-        <div>{/* This column is intentionally left empty */}</div>
+    <div className="bg-yellow-700 min-h-screen flex overflow-hidden">
+      {/* Authors Column */}
+      <div className="flex flex-col overflow-y-auto w-1/4 h-screen p-4 md:pl-20">
+        <h2 className="pt-10 text-lg font-montserrat">Authors</h2>
+        <ul>
+          {authors.map((author, index) => (
+            <Link
+              to={`/category/author/${author}`}
+              key={index}
+              className="text-2xl font-architectsDaughter md:text-4xl mb-2 py-2 block hover:text-customTan"
+            >
+              {author}
+            </Link>
+          ))}
+        </ul>
       </div>
+
+      {/* Categories Column */}
+      <div className="w-1/2 p-4">
+        <div className="flex flex-col gap-4 overflow-y-auto">
+          <h2 className="pt-10 text-lg font-montserrat">Categories</h2>
+          {categories.map((category, index) => (
+            <Link
+              to={`/category/${category}`}
+              key={index}
+              className="text-4xl md:text-6xl font-bebas p-4 hover:bg-customTan"
+            >
+              {category}
+            </Link>
+          ))}
+        </div>
+      </div>
+      {/* Side Column with Vertical Line and Text */}
+      <div className="relative hidden bg-customTan h-screen lg:flex md:flex-col md:justify-end md:w-1/4"></div>
     </div>
   );
 };
 
-export default CategoryDetailPage;
+export default CategoriesPage;

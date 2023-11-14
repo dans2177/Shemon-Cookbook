@@ -8,9 +8,11 @@ module.exports = {
       fontFamily: {
         bebas: ["Bebas Neue", "cursive"],
         montserrat: ["Montserrat", "sans-serif"],
+        architectsDaughter: ["Architects Daughter", "cursive"],
       },
       colors: {
         customBrown: "#88815F",
+        customTan: "#F2E7E5",
       },
     },
   },

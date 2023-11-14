@@ -20,7 +20,7 @@ const HomePage = () => {
             <br /> Cookbook.
           </h1>
           <button
-            className="text-lg text-montserrat border-black  font-bold border-2 bg-transparent hover:bg-orange-700 hover:text-white text-black  py-3 px-6  transition duration-300 ease-in-out"
+            className="text-lg text-montserrat border-black tracking-widest	 border-2 bg-transparent hover:bg-orange-700 hover:text-white text-black  py-3 px-6  transition duration-300 ease-in-out"
             onClick={() => navigate("/categories")}
           >
             START COOKING
