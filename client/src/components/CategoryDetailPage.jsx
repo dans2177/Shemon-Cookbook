@@ -16,10 +16,13 @@ const CategoryDetailPage = ({ recipes }) => {
     filteredRecipes = recipes.filter((recipe) => recipe.creator === authorName);
   }
 
-  // Render the filtered recipes
+  // Sort the recipes in alphabetical order by title
+  filteredRecipes.sort((a, b) => a.title.localeCompare(b.title));
+
+  // Render the filtered and sorted recipes
   return (
-    <div className="p-5">
-      <h2 className="text-2xl font-bold mb-3">
+    <div className="m-auto max-w-4xl min-h-screen p-5 bg-black bg-opacity-60">
+      <h2 className="text-2xl text-gray-200 font-bold mb-3">
         {categoryName
           ? `Recipes in ${categoryName}`
           : `Recipes by ${authorName}`}
@@ -29,13 +32,17 @@ const CategoryDetailPage = ({ recipes }) => {
           filteredRecipes.map((recipe, index) => (
             <div
               key={index}
-              className="border border-gray-200 rounded-lg shadow-lg p-4 hover:shadow-xl cursor-pointer"
+              className="bg-white border h-28 border-gray-200 shadow-lg hover:shadow-xl cursor-pointer rounded-lg overflow-hidden hover:transform hover:scale-105 transition duration-300 ease-in-out"
               onClick={() => navigate(`/recipe/${recipe.id}`)}
             >
-              <h3 className="text-lg font-semibold">{recipe.title}</h3>
-              <p className="text-sm text-gray-600">
-                Created by: {recipe.creator}
-              </p>
+              {/* Optional: Image here */}
+              <div className="p-4">
+                <h3 className="text-lg font-semibold mb-2">{recipe.title}</h3>
+                <p className="text-sm text-gray-600">
+                  Created by: {recipe.creator}
+                </p>
+                {/* Optional: More details here */}
+              </div>
             </div>
           ))
         ) : (
