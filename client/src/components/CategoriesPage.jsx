@@ -22,7 +22,7 @@ const CategoriesPage = ({ categories, authors }) => {
 
       {/* Categories Column */}
       <div className="w-1/2 p-4">
-        <div className="flex flex-col gap-4 overflow-y-auto">
+        <div className="flex flex-col gap-4 overflow-y-auto ">
           <h2 className="pt-10 text-lg font-montserrat">Categories</h2>
           {categories.map((category, index) => (
             <Link

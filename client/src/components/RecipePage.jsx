@@ -8,7 +8,7 @@ const RecipePage = ({ recipes }) => {
   if (!recipe) return <div>No recipe selected</div>;
 
   return (
-    <div className="h-screen w-screen bg-white flex flex-col items-center">
+    <div className="h-screen w-screen bg-gray-100 flex flex-col items-start">
       <h2
         className={`text-6xl font-bold mb-2 p-8 ${
           !recipe.notes ? "text-8xl" : ""
@@ -17,11 +17,11 @@ const RecipePage = ({ recipes }) => {
         {recipe.title}
       </h2>
       {recipe.notes && (
-        <div className="mb-4">
+        <div className="mb-4 pl-8">
           <strong>Notes:</strong> {recipe.notes}
         </div>
       )}
-      <hr className="border-2 w-full mb-4" />
+      <hr className="border-2 w-full mb-4 border-black" />
 
       <div className="grid grid-cols-4 gap-4 w-full p-8">
         <div className="col-span-1">
