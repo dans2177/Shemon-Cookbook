@@ -9,11 +9,13 @@ module.exports = {
         bebas: ["Bebas Neue", "cursive"],
         montserrat: ["Montserrat", "sans-serif"],
         architectsDaughter: ["Architects Daughter", "cursive"],
+        playfairDisplay: ["Playfair Display", "serif"],
       },
       colors: {
         customBrown: "#88815F",
         customTan: "#F2E7E5",
       },
+      backgroundImage: {},
     },
   },
   plugins: [],

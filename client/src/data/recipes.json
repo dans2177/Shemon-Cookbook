@@ -1,4 +1,5 @@
 {
+  "lastName": "Shemon",
   "recipes": [
     {
       "id": 1,
@@ -2146,6 +2147,1675 @@
         "Add cheese and bake an additional 30 minutes uncovered."
       ],
       "notes": ""
+    },
+    {
+      "id": 101,
+      "title": "Salmon Cheese Spread",
+      "category": "Side Dish",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "2 3oz. packages cream cheese, softened",
+        "3 TBLS mayo or Miracle Whip",
+        "1 TBLS lemon juice",
+        "½ tsp salt",
+        "½ tsp curry powder",
+        "¼ tsp dried basil",
+        "1/8 tsp pepper",
+        "1 can salmon, drained, boned, and skinned",
+        "2 green onions, thinly sliced",
+        "Crackers for serving"
+      ],
+      "instructions": [
+        "In a mixing bowl, combine the cream cheese, mayo, and lemon juice.",
+        "Add salt, curry powder, basil, and pepper; mix well.",
+        "Gently stir in salmon and onions.",
+        "Cover and refrigerate for at least 1 hour.",
+        "Serve with crackers."
+      ],
+      "notes": "Yield: 1-1 ½ cups. Dorene usually adds a little horseradish to the recipe."
+    },
+    {
+      "id": 102,
+      "title": "Sugar Cookies",
+      "category": "Dessert",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "2/3 cup shortening (Crisco)",
+        "¾ cup sugar",
+        "1 tsp vanilla",
+        "1 egg",
+        "4 tsp milk",
+        "2 cups sifted all-purpose flour",
+        "1 ½ tsp baking powder",
+        "¼ tsp salt",
+        "Decorative sugar, candy decorettes, gumdrops, or crushed hard peppermint candy (optional)",
+        "Light corn syrup for glazing (optional)"
+      ],
+      "instructions": [
+        "Preheat oven to 375 degrees.",
+        "Thoroughly cream shortening, sugar, and vanilla.",
+        "Add egg; beat till light and fluffy.",
+        "Stir in milk.",
+        "Sift together dry ingredients; blend into creamed mixture.",
+        "Divide dough in half; chill 1 hour.",
+        "On lightly floured surface, roll dough to 1/8 inch thickness.",
+        "Cut in desired shapes with cutters.",
+        "Bake on greased cookie sheet at 375 degrees for about 6 to 8 minutes.",
+        "Cool slightly; remove from pan."
+      ],
+      "notes": "Yield: 2 dozen cookies. Optional cookie trims can be applied before baking."
+    },
+    {
+      "id": 103,
+      "title": "White Sauce",
+      "category": "Other",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "2 to 3 TBLS butter (quantity varies for sauce thickness)",
+        "1 to 4 TBLS flour (quantity varies for sauce thickness)",
+        "¼ tsp salt",
+        "1 to 1 ½ cups milk (quantity varies for sauce thickness)",
+        "Dash of white pepper"
+      ],
+      "instructions": [
+        "Melt butter in saucepan over low heat.",
+        "Blend in flour, salt, and a dash of white pepper.",
+        "Add milk all at once.",
+        "Cook quickly, stirring constantly, until mixture thickens and bubbles."
+      ],
+      "notes": "Yield: 1 to 1 ½ cups, depending on desired thickness (medium, thick, or thin)."
+    },
+    {
+      "id": 104,
+      "title": "Vegetable Relish",
+      "category": "Other",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "5 cups ground green peppers",
+        "4 cups ground green tomatoes",
+        "4 cups ground onions",
+        "4 cups ground cabbage",
+        "1 ½ cups ground red peppers",
+        "1 ½ cups pickling salt",
+        "6 cups sugar",
+        "4 cups cider vinegar",
+        "2 cups water",
+        "2 TBLS mustard seeds",
+        "1 TBLS celery seeds",
+        "1 ½ tsp turmeric"
+      ],
+      "instructions": [
+        "Cover the ground vegetables with pickling salt and let stand overnight.",
+        "Rinse off all salt and drain.",
+        "Combine sugar, cider vinegar, water, mustard seeds, celery seeds, and turmeric with vegetables; bring to a boil.",
+        "Leave ½ inch headspace when filling jars.",
+        "Boil for 30 minutes then pack and seal jars."
+      ],
+      "notes": "The recipe is for canning vegetable relish. Ensure proper canning techniques are followed for safety."
+    },
+    {
+      "id": 105,
+      "title": "Seven Layer Magic Cookie Bars",
+      "category": "Dessert",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "1 stick butter or margarine",
+        "1 ½ cups graham cracker crumbs",
+        "1 14oz. can Eagle Brand Sweetened Condensed Milk (not evaporated milk)",
+        "1 cup butterscotch flavored chips",
+        "1 cup semi-sweet chocolate chips",
+        "1 1/3 cup coconut flakes",
+        "1 cup chopped nuts"
+      ],
+      "instructions": [
+        "Preheat oven to 350° (325° for glass dish).",
+        "In a 13 x 9 inch baking pan, melt butter in oven.",
+        "Sprinkle crumbs over butter; pour milk evenly on top of crumbs.",
+        "Top with remaining ingredients in order listed; press down firmly with a fork.",
+        "Bake for 25 minutes or until lightly browned.",
+        "Cool and cut into bars."
+      ],
+      "notes": "Yield: 24 to 36 bars."
+    },
+    {
+      "id": 106,
+      "title": "Shrimp Casserole",
+      "category": "Main Dish",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "2 cans mushroom soup",
+        "1 can milk",
+        "2 large jars sliced mushrooms",
+        "1 large onion, chopped",
+        "5 TBLS fresh parsley, chopped",
+        "6 TBLS butter",
+        "dash of red pepper",
+        "salt and pepper to taste",
+        "12 oz. cooked macaroni shells",
+        "1 lb. sharp cheese, grated",
+        "2 lb. cooked shrimp (medium size, cut in 4 pieces)",
+        "bread crumbs"
+      ],
+      "instructions": [
+        "Sauté onions and parsley in butter.",
+        "Add soup, mushrooms and cheese; mix well until cheese is melted.",
+        "Pour over macaroni and shrimp; mix well.",
+        "Pour all ingredients into greased casserole.",
+        "Top with bread crumbs and bake at 375° for 30 to 40 min or until golden brown."
+      ],
+      "notes": "Makes 8 to 10 servings."
+    },
+    {
+      "id": 107,
+      "title": "Christmas Pudding",
+      "category": "Dessert",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "2 ½ lbs prunes",
+        "3 pkg raisins",
+        "2 pkg currents",
+        "6 TBLS flour",
+        "7 med apples",
+        "½ cup vinegar",
+        "½ cup sugar",
+        "1 cup shelled walnuts"
+      ],
+      "instructions": [
+        "Boil prunes, raisins, apples, and currents separately.",
+        "When boiled, combine all in one kettle.",
+        "Add vinegar and sugar.",
+        "Brown the flour before adding it to the mixture, then boil until thickened.",
+        "Add chopped walnuts.",
+        "Keep in a cool place."
+      ],
+      "notes": "Store in a cool place."
+    },
+    {
+      "id": 108,
+      "title": "Zucchini Bread",
+      "category": "Baked Goods",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "3 eggs, lightly beaten",
+        "1 cup salad oil",
+        "1 cup sugar",
+        "2 cups zucchini",
+        "2 tsp vanilla",
+        "2 ½ cups flour",
+        "1 tsp baking soda",
+        "1 tsp baking powder",
+        "3 tsp cinnamon",
+        "1 tsp salt",
+        "2/3 cup raisins (optional)",
+        "1 cup nuts"
+      ],
+      "instructions": [
+        "Stir together all ingredients.",
+        "Put in 2 bread size loaf pans.",
+        "Bake at 350° for 1 hour.",
+        "Cool for 10 minutes before removing from pan."
+      ],
+      "notes": "Yield: 2 loaves."
+    },
+    {
+      "id": 109,
+      "title": "Chili Dip",
+      "category": "Other",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "1 8oz. cream cheese",
+        "1 can chili",
+        "Sliced Monterey Jack Cheese with jalapeno peppers"
+      ],
+      "instructions": [
+        "Spread softened cream cheese in an 8x8 or 9x9 microwavable pan.",
+        "Spread can of chili over, add thinly sliced Monterey Jack cheese.",
+        "Microwave on high for 2 minutes. Turn ¼ turn and microwave 30 seconds.",
+        "Repeat last step until cheese melts, no longer than 4 minutes.",
+        "Serve with corn chips."
+      ],
+      "notes": "Adjust microwave times as needed."
+    },
+    {
+      "id": 110,
+      "title": "Eggnog",
+      "category": "Other",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "6 eggs",
+        "2 cups milk",
+        "½ cup sugar",
+        "2 cups heavy cream",
+        "1 ½ cup dark rum",
+        "nutmeg"
+      ],
+      "instructions": [
+        "Combine eggs, milk, and sugar in double boiler. Cook on low heat until it forms a smooth custard, about 30 min.",
+        "Cool.",
+        "Beat in cream, rum until smooth.",
+        "Chill.",
+        "Flavor with nutmeg or cinnamon if desired.",
+        "Sprinkle nutmeg on top before serving."
+      ],
+      "notes": "Cooking time: 30 min. Chill before serving."
+    },
+    {
+      "id": 111,
+      "title": "Granola Fudge Clusters",
+      "category": "Dessert",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "1 cup semisweet chocolate chips",
+        "1 cup butterscotch chips",
+        "1 ¼ cup granola cereal without raisins",
+        "1 cup chopped walnuts"
+      ],
+      "instructions": [
+        "In a microwave-safe bowl, melt the chocolate and butterscotch chips; stir until smooth.",
+        "Stir in granola cereal and walnuts.",
+        "Drop by tablespoonfuls onto wax paper-lined baking sheets.",
+        "Refrigerate for 15 minutes or until firm."
+      ],
+      "notes": "Makes about 2 ½ dozen."
+    },
+    {
+      "id": 112,
+      "title": "Cranberry & Caramel Date Bars",
+      "category": "Dessert",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "1 cup cranberries",
+        "½ cup + 2 tablespoons sugar",
+        "2 1/3 cup flour",
+        "2 cups oats",
+        "½ cup packed light brown sugar",
+        "½ tsp baking soda",
+        "1 cup margarine or butter, melted",
+        "1 ½ cup dates, chopped",
+        "¾ cup chopped walnuts",
+        "1 cup caramel ice cream topping"
+      ],
+      "instructions": [
+        "Heat oven to 350°.",
+        "In a bowl, combine cranberries and 2 tablespoons sugar.",
+        "In another bowl, combine 2 cups flour, oats, remaining ½ cup sugar, brown sugar, and soda. Add margarine; mix well.",
+        "Reserve 1 cup crumb mixture; press remainder firmly on bottom of 13 x 9 baking pan. Bake 15 minutes.",
+        "Sprinkle dates, walnuts, and cranberry mixture over crust.",
+        "Mix caramel topping and remaining 1/3 cup flour; spoon over fruit and walnuts.",
+        "Top with reserved crumb mixture. Bake 20 minutes or until lightly brown.",
+        "Cool. Cut into 24 bars."
+      ],
+      "notes": "Preparation time: 35 min. Yield: 24 bars."
+    },
+    {
+      "id": 113,
+      "title": "Shrimp Creole",
+      "category": "Main Dish",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "1 lb medium shrimp (35 to 40)",
+        "2 cloves garlic",
+        "1 medium onion",
+        "1 small bell pepper",
+        "2 TBLS vegetable oil",
+        "2 16 oz. cans tomato sauce",
+        "1 8 oz. can tomato paste",
+        "Long grain rice"
+      ],
+      "instructions": [
+        "Wash and de-vein shrimp. Keep in refrigerator until ready to use.",
+        "Sauté garlic, onion, and pepper in oil.",
+        "Add sautéed vegetables to tomato sauce and paste. Simmer 15 to 20 minutes.",
+        "Add shrimp and cook until all turns pink (approximately 10 minutes).",
+        "Season with salt and pepper. A pinch of red pepper can be used.",
+        "Serve over long grain rice."
+      ],
+      "notes": "Season with a pinch of red pepper for extra spice."
+    },
+    {
+      "id": 114,
+      "title": "Chicken Tacos",
+      "category": "Main Dish",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "1 roasted chicken",
+        "4 tsp taco seasoning mix",
+        "¾ cup water",
+        "¾ cup taco sauce",
+        "1 pkg (4.6 oz) taco shells",
+        "1 ½ cup shredded lettuce",
+        "¾ cup shredded Cheddar cheese",
+        "1 large tomato, chopped"
+      ],
+      "instructions": [
+        "Tear chicken into bite-size strips (about 3 cups).",
+        "Heat oven to 350°. Have baking sheet ready.",
+        "Place chicken, taco seasoning, and water in a large skillet. Bring to a boil, reduce heat and simmer until seasoned water evaporates, about 10 minutes.",
+        "Stir in taco sauce and heat through.",
+        "Separate taco shells and arrange on baking sheet. Bake 5 to 7 minutes until warm and crisp.",
+        "Spoon about 3 tablespoons chicken mixture into each shell.",
+        "Top with 2 tablespoons shredded lettuce and 1 tablespoon each of cheese and tomato."
+      ],
+      "notes": "Serves 3-4. Baking time: 5-7 min."
+    },
+    {
+      "id": 115,
+      "title": "Quick and Easy Seafood Quiche",
+      "category": "Main Dish",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "1 cup chopped broccoli (optional)",
+        "½ cup sharp Cheddar cheese",
+        "½ cup pizza cheese",
+        "½ cup Mozzarella cheese",
+        "4 eggs (2 separated)",
+        "1 to 2 scallions, chopped",
+        "2 cups Bisquick",
+        "¼ cup water",
+        "1/8 cup milk",
+        "crushed garlic or garlic powder",
+        "¾ lb imitation seafood or 2 cans of shrimp, drained"
+      ],
+      "instructions": [
+        "Preheat oven to 350°.",
+        "Gently sauté onions and garlic in 1 tablespoon butter; set aside.",
+        "Mix Bisquick, water, and milk to pie crust consistency. Cover and set aside in a warm place.",
+        "Beat 2 eggs and 2 egg yolks thoroughly. Add cheeses and stir in by hand.",
+        "Add onions, seafood, and broccoli.",
+        "Press Bisquick mix into 2 lightly oiled pie plates and up the sides.",
+        "Beat 2 egg whites until fluffy, but not stiff. Fold into egg and cheese mixture.",
+        "Pour egg mixture evenly into pies. Scatter chopped scallions on top.",
+        "Bake 45 to 60 minutes until center is set.",
+        "Cool 5 minutes before cutting."
+      ],
+      "notes": "Yield: 2 pies. Cooking time: 45-60 min."
+    },
+    {
+      "id": 111,
+      "title": "Granola Fudge Clusters",
+      "category": "Dessert",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "1 cup semisweet chocolate chips",
+        "1 cup butterscotch chips",
+        "1 ¼ cup granola cereal without raisins",
+        "1 cup chopped walnuts"
+      ],
+      "instructions": [
+        "In a microwave-safe bowl, melt the chocolate and butterscotch chips; stir until smooth.",
+        "Stir in granola cereal and walnuts.",
+        "Drop by tablespoonfuls onto wax paper-lined baking sheets.",
+        "Refrigerate for 15 minutes or until firm."
+      ],
+      "notes": "Makes about 2 ½ dozen."
+    },
+    {
+      "id": 112,
+      "title": "Cranberry & Caramel Date Bars",
+      "category": "Dessert",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "1 cup cranberries",
+        "½ cup + 2 tablespoons sugar",
+        "2 1/3 cup flour",
+        "2 cups oats",
+        "½ cup packed light brown sugar",
+        "½ tsp baking soda",
+        "1 cup margarine or butter, melted",
+        "1 ½ cup dates, chopped",
+        "¾ cup chopped walnuts",
+        "1 cup caramel ice cream topping"
+      ],
+      "instructions": [
+        "Heat oven to 350°.",
+        "In a bowl, combine cranberries and 2 tablespoons sugar.",
+        "In another bowl, combine 2 cups flour, oats, remaining ½ cup sugar, brown sugar, and soda. Add margarine; mix well.",
+        "Reserve 1 cup crumb mixture; press remainder firmly on bottom of 13 x 9 baking pan. Bake 15 minutes.",
+        "Sprinkle dates, walnuts, and cranberry mixture over crust.",
+        "Mix caramel topping and remaining 1/3 cup flour; spoon over fruit and walnuts.",
+        "Top with reserved crumb mixture. Bake 20 minutes or until lightly brown.",
+        "Cool. Cut into 24 bars."
+      ],
+      "notes": "Preparation time: 35 min. Yield: 24 bars."
+    },
+    {
+      "id": 113,
+      "title": "Shrimp Creole",
+      "category": "Main Dish",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "1 lb medium shrimp (35 to 40)",
+        "2 cloves garlic",
+        "1 medium onion",
+        "1 small bell pepper",
+        "2 TBLS vegetable oil",
+        "2 16 oz. cans tomato sauce",
+        "1 8 oz. can tomato paste",
+        "Long grain rice"
+      ],
+      "instructions": [
+        "Wash and de-vein shrimp. Keep in refrigerator until ready to use.",
+        "Sauté garlic, onion, and pepper in oil.",
+        "Add sautéed vegetables to tomato sauce and paste. Simmer 15 to 20 minutes.",
+        "Add shrimp and cook until all turns pink (approximately 10 minutes).",
+        "Season with salt and pepper. A pinch of red pepper can be used.",
+        "Serve over long grain rice."
+      ],
+      "notes": "Season with a pinch of red pepper for extra spice."
+    },
+    {
+      "id": 114,
+      "title": "Chicken Tacos",
+      "category": "Main Dish",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "1 roasted chicken",
+        "4 tsp taco seasoning mix",
+        "¾ cup water",
+        "¾ cup taco sauce",
+        "1 pkg (4.6 oz) taco shells",
+        "1 ½ cup shredded lettuce",
+        "¾ cup shredded Cheddar cheese",
+        "1 large tomato, chopped"
+      ],
+      "instructions": [
+        "Tear chicken into bite-size strips (about 3 cups).",
+        "Heat oven to 350°. Have baking sheet ready.",
+        "Place chicken, taco seasoning, and water in a large skillet. Bring to a boil, reduce heat and simmer until seasoned water evaporates, about 10 minutes.",
+        "Stir in taco sauce and heat through.",
+        "Separate taco shells and arrange on baking sheet. Bake 5 to 7 minutes until warm and crisp.",
+        "Spoon about 3 tablespoons chicken mixture into each shell.",
+        "Top with 2 tablespoons shredded lettuce and 1 tablespoon each of cheese and tomato."
+      ],
+      "notes": "Serves 3-4. Baking time: 5-7 min."
+    },
+    {
+      "id": 115,
+      "title": "Quick and Easy Seafood Quiche",
+      "category": "Main Dish",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "1 cup chopped broccoli (optional)",
+        "½ cup sharp Cheddar cheese",
+        "½ cup pizza cheese",
+        "½ cup Mozzarella cheese",
+        "4 eggs (2 separated)",
+        "1 to 2 scallions, chopped",
+        "2 cups Bisquick",
+        "¼ cup water",
+        "1/8 cup milk",
+        "crushed garlic or garlic powder",
+        "¾ lb imitation seafood or 2 cans of shrimp, drained"
+      ],
+      "instructions": [
+        "Preheat oven to 350°.",
+        "Gently sauté onions and garlic in 1 tablespoon butter; set aside.",
+        "Mix Bisquick, water, and milk to pie crust consistency. Cover and set aside in a warm place.",
+        "Beat 2 eggs and 2 egg yolks thoroughly. Add cheeses and stir in by hand.",
+        "Add onions, seafood, and broccoli.",
+        "Press Bisquick mix into 2 lightly oiled pie plates and up the sides.",
+        "Beat 2 egg whites until fluffy, but not stiff. Fold into egg and cheese mixture.",
+        "Pour egg mixture evenly into pies. Scatter chopped scallions on top.",
+        "Bake 45 to 60 minutes until center is set.",
+        "Cool 5 minutes before cutting."
+      ],
+      "notes": "Yield: 2 pies. Cooking time: 45-60 min."
+    },
+    {
+      "id": 121,
+      "title": "Reuben Casserole",
+      "category": "Main Dish",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "1 lb can sauerkraut, drained",
+        "2 med tomatoes, sliced",
+        "2 TBLS thousand island dressing",
+        "2 TBLS butter",
+        "2 4 oz pkg. sliced corned beef, shredded",
+        "2 cups (8 oz) pkg shredded Swiss cheese",
+        "1 can refrigerated biscuits",
+        "2 rye crisp crackers, crushed",
+        "¼ tsp caraway seed"
+      ],
+      "instructions": [
+        "Spread sauerkraut in the bottom of 12 x 8 inch baking dish.",
+        "Top with tomato slices, dot with dressing and butter.",
+        "Cover with corned beef, sprinkle with cheese.",
+        "Bake at 425° for 15 minutes.",
+        "Remove casserole from oven. Separate each biscuit into 3 layers; slightly overlap biscuit layers on casserole to form three rows.",
+        "Sprinkle with crackers and caraway seed.",
+        "Bake an additional 15 to 20 minutes, until biscuit topping is golden brown."
+      ],
+      "notes": "Serves 6-8. Baking time: 30-35 min."
+    },
+    {
+      "id": 122,
+      "title": "Favorite Turkey Scallops",
+      "category": "Main Dish",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "1 cup diced celery",
+        "6 cups ½” bread cubes, toasted",
+        "Milk",
+        "¼ tsp poultry seasoning",
+        "2 cups diced turkey or chicken",
+        "1 cup water",
+        "½ cup butter, melted",
+        "½ cup butter",
+        "½ cup flour",
+        "1 tsp salt"
+      ],
+      "instructions": [
+        "Cook celery in water until tender.",
+        "Toast bread, cut in cubes and pour melted butter over.",
+        "Combine liquid from celery with enough milk and some chicken broth, if available, to make 2 cups liquid.",
+        "Make white sauce using butter, flour, and this liquid mixture.",
+        "Add seasonings to white sauce.",
+        "Layer in casserole dish; half of the bread cubes in first. Place celery and chicken on top.",
+        "Pour half white sauce over. Add remaining cubes and end with the rest of the white sauce.",
+        "Bake at 350° for 20 to 25 minutes."
+      ],
+      "notes": "Serves 6-8. Baking time: 20-25 min."
+    },
+    {
+      "id": 123,
+      "title": "Turkey or Chicken Casserole",
+      "category": "Main Dish",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "3 cups cooked turkey/chicken, large cubes",
+        "1 4 oz. can mushroom stems and pieces",
+        "½ cup chopped celery",
+        "¼ cup chopped onion",
+        "¼ cup green pepper, chopped",
+        "1 2 oz. jar pimento",
+        "½ tsp sage",
+        "1 cup milk",
+        "1 cup soup (mushroom, celery, or cream of chicken)",
+        "1 3 oz. can chow mein noodles"
+      ],
+      "instructions": [
+        "Combine meat, vegetables, and seasonings.",
+        "Blend soup and milk. Add to other ingredients and mix lightly.",
+        "Pour into greased 2-quart baking dish.",
+        "Arrange noodles in a ring around the edge.",
+        "Bake at 350° for 45 minutes."
+      ],
+      "notes": "Serves 6. Baking time: 45 min."
+    },
+    {
+      "id": 124,
+      "title": "Seafood or Chicken Hot Dish",
+      "category": "Main Dish",
+      "creator": "Dorene M.",
+      "ingredients": [
+        "1 can cream of mushroom soup",
+        "1 can cream of chicken soup",
+        "1 small can evaporated milk",
+        "¼ cup green pepper and pimento (optional)",
+        "1 cup celery",
+        "1 can chicken, tuna, crab, lobster, or shrimp",
+        "1 small can button mushrooms",
+        "2 cups Chinese noodles (1 can)",
+        "1 can Chinese vegetables, drained",
+        "Slivered almonds"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Bake in a greased dish set in a pan of hot water for 1 hour in a slow oven, at 275°.",
+        "Then bake for 1 more hour at 350°. This allows the liquid to evaporate.",
+        "Garnish with hard-cooked eggs, optional."
+      ],
+      "notes": "Makes 6-8 servings. Total cooking time: 2 hours."
+    },
+    {
+      "id": 125,
+      "title": "Steven’s Chicken and Rice",
+      "category": "Main Dish",
+      "creator": "Janell B.",
+      "ingredients": [
+        "2 cup rice",
+        "2 cup chopped chicken",
+        "2 cup water",
+        "2 cup milk",
+        "2 cans cream of mushroom or cream of chicken soup",
+        "salt and pepper to taste"
+      ],
+      "instructions": [
+        "Mix together all ingredients.",
+        "Bake at 325° for 1 hour."
+      ],
+      "notes": "Simple and hearty one-dish meal."
+    },
+    {
+      "id": 126,
+      "title": "Aaron’s Pizza Hotdish",
+      "category": "Main Dish",
+      "creator": "Janell B.",
+      "ingredients": [
+        "1 lb. hamburger",
+        "1/3 cup onion",
+        "1 can tomato soup",
+        "1/3 cup water",
+        "1 can tomato sauce",
+        "1 tsp oregano",
+        "1 tsp salt",
+        "1/8 tsp pepper",
+        "1 pkg wide noodles",
+        "¼ lb sliced cheese"
+      ],
+      "instructions": [
+        "Brown hamburger with onions, salt, and pepper; drain.",
+        "Add soup, sauce, and water.",
+        "Cook noodles and drain.",
+        "Layer half the noodles in the bottom of a buttered 2 qt casserole; cover with all but 3 slices of cheese.",
+        "Top with half of the beef mixture; repeat with noodles and beef mixture.",
+        "Top with 3 cheese slices.",
+        "Bake at 350° for 1 hour."
+      ],
+      "notes": "Serves 4-6. Hearty and filling."
+    },
+    {
+      "id": 127,
+      "title": "Ranch Style Beans",
+      "category": "Side Dish",
+      "creator": "Janell B.",
+      "ingredients": [
+        "1 can pork and beans",
+        "1 can kidney beans",
+        "1 lb hamburger",
+        "½ cup ketchup",
+        "2 TBLS brown sugar",
+        "2 TBLS molasses",
+        "1 tsp dry mustard"
+      ],
+      "instructions": [
+        "Brown hamburger. Season to taste.",
+        "In a pot, mix remaining ingredients together.",
+        "Put the browned hamburger into the pot.",
+        "Bake for 1 hour."
+      ],
+      "notes": "Substitution: 1 can pork and beans for kidney beans if preferred."
+    },
+    {
+      "id": 128,
+      "title": "Caramels",
+      "category": "Dessert",
+      "creator": "Janell B.",
+      "ingredients": [
+        "2 cup white corn syrup",
+        "1 cup butter",
+        "2 cup white sugar",
+        "1 tsp vanilla",
+        "1 can sweetened condensed milk",
+        "1 cup walnuts"
+      ],
+      "instructions": [
+        "Bring syrup, butter, sugar, and half the milk to a boil.",
+        "Add remaining milk and cook to soft-ball stage or 242°.",
+        "Remove from heat, add vanilla and walnuts.",
+        "Pour into buttered 9x13 pan.",
+        "Cool, cut, and wrap."
+      ],
+      "notes": "Rich and indulgent homemade caramels."
+    },
+    {
+      "id": 129,
+      "title": "Nut Goodies",
+      "category": "Dessert",
+      "creator": "Janell B.",
+      "ingredients": [
+        "1 pkg white almond bark",
+        "1 (12oz) pkg chocolate chips",
+        "1 (12oz) pkg peanut butter chips",
+        "½ cup peanut butter",
+        "1 pkg (60) caramels",
+        "1 TBLS water",
+        "1 TBLS butter",
+        "1 (12oz) pkg salted peanuts"
+      ],
+      "instructions": [
+        "Melt together white almond bark, chocolate chips, peanut butter chips, and peanut butter. Pour half of the mixture into a buttered 9x13 pan. Chill well.",
+        "Melt caramels with water and butter, pour over chilled chocolate mixture. Chill well.",
+        "Mix salted peanuts into the rest of the chocolate mixture. Chill well."
+      ],
+      "notes": "Delicious layered nutty and chocolate treat."
+    },
+    {
+      "id": 130,
+      "title": "Buckeyes",
+      "category": "Dessert",
+      "creator": "Janell B.",
+      "ingredients": [
+        "1 (16 oz) pkg powdered sugar",
+        "1 cup chunky peanut butter",
+        "2/3 cup butter, softened",
+        "½ tsp vanilla",
+        "1 cup chocolate chips"
+      ],
+      "instructions": [
+        "In a large bowl, mix sugar, peanut butter, butter, and vanilla. Mix well.",
+        "Roll into 1-inch balls. Refrigerate.",
+        "Melt chocolate chips in the microwave.",
+        "Dip balls into chocolate, covering only the top half.",
+        "Refrigerate."
+      ],
+      "notes": "Refrigerate until firm. Classic peanut butter and chocolate treat."
+    },
+    {
+      "id": 131,
+      "title": "Snicker’s Bars",
+      "category": "Dessert",
+      "creator": "Janell B.",
+      "ingredients": [
+        "½ cup semi-sweet chocolate chips",
+        "½ cup milk chocolate chips",
+        "¼ cup butterscotch chips",
+        "¼ cup chunky peanut butter",
+        "1 cup sugar",
+        "¼ cup milk",
+        "½ cup butter",
+        "7 oz jar marshmallow crème",
+        "1 tsp vanilla",
+        "1 ½ cup chopped dry roasted peanuts",
+        "1 pkg (40) caramels",
+        "4 TBLS milk"
+      ],
+      "instructions": [
+        "Melt the first layer ingredients over a double boiler and put in a buttered 9x13 pan.",
+        "Boil sugar, milk, and butter for 5 minutes for the second layer.",
+        "Add peanut butter, marshmallow crème, and vanilla. Pour over the first layer.",
+        "Spread chopped nuts over the top of the second layer.",
+        "Melt caramels and milk together and spread over nuts.",
+        "Melt together the ingredients for the fourth layer and mix. Spread on caramels.",
+        "Refrigerate after each layer. After cooled, cut into small pieces."
+      ],
+      "notes": "Makes rich, multi-layered bars. Refrigerate between layers."
+    },
+    {
+      "id": 132,
+      "title": "Salted Nut Rolls",
+      "category": "Dessert",
+      "creator": "Janell B.",
+      "ingredients": [
+        "1 (7 oz) jar marshmallow crème",
+        "2 ¼ cup powdered sugar",
+        "1 pkg (60) caramels",
+        "3 TBLS water",
+        "16 oz chopped salted peanuts"
+      ],
+      "instructions": [
+        "Knead together marshmallow crème and powdered sugar.",
+        "Shape into small fingers. Put fingers on a waxed cookie sheet and freeze.",
+        "Melt caramels and water in a double boiler.",
+        "Dip fingers into caramel mixture and roll in chopped nuts.",
+        "Freeze until set. Wrap each roll and refrigerate until served."
+      ],
+      "notes": "Can be stored in the refrigerator. A sweet and salty treat."
+    },
+    {
+      "id": 133,
+      "title": "Peanut Butter Cups",
+      "category": "Dessert",
+      "creator": "Janell B.",
+      "ingredients": [
+        "1 cup peanut butter",
+        "1 cup powdered sugar",
+        "1 tsp vanilla",
+        "1 pkg chocolate almond bark",
+        "½ cup peanut butter"
+      ],
+      "instructions": [
+        "Roll the first three ingredients into balls.",
+        "Melt chocolate bark and peanut butter in a double boiler.",
+        "Spoon enough chocolate mixture to cover the bottom of paper candy cups.",
+        "Add rolled ball. Spoon chocolate mixture over top.",
+        "Keep in refrigerator or freezer."
+      ],
+      "notes": "Store in a cool place. Classic peanut butter and chocolate combo."
+    },
+    {
+      "id": 134,
+      "title": "Chocolate Pretzel Ring",
+      "category": "Dessert",
+      "creator": "Janell B.",
+      "ingredients": [
+        "48-50 pretzel rings",
+        "1 pkg chocolate kisses",
+        "¼ cup M&M’s"
+      ],
+      "instructions": [
+        "Place pretzels on greased baking sheets, place a kiss in the center of each ring.",
+        "Bake at 275° for 2-3 minutes or until chocolate is soft.",
+        "Remove from oven. Place an M&M on each kiss. Press down until chocolate fills pretzel ring.",
+        "Refrigerate for 5 minutes or until chocolate is firm.",
+        "Store at room temperature."
+      ],
+      "notes": "A sweet and salty snack. Easy to make and perfect for parties."
+    },
+    {
+      "id": 135,
+      "title": "Chocolate Nut Fudge",
+      "category": "Dessert",
+      "creator": "Janell B.",
+      "ingredients": [
+        "1 cup and 1 TBLS butter, divided",
+        "4 cups sugar",
+        "1 cup milk",
+        "32 large marshmallows",
+        "2 cups milk chocolate chips",
+        "2 cups semi-sweet chocolate chips",
+        "2 Squares (1 oz each) unsweetened chocolate, melted",
+        "1-1 ½ cups chopped nuts",
+        "1 ½ tsp vanilla"
+      ],
+      "instructions": [
+        "Butter a 9x13 pan with 1 TBLS butter, set aside.",
+        "In a large saucepan, combine sugar, milk, and remaining butter. Bring to a full boil over medium heat.",
+        "Boil for 2 minutes, stirring constantly.",
+        "Remove from heat, stir in marshmallows until melted.",
+        "Add chocolate chips, melted unsweetened chocolate, nuts, and vanilla. Stir until smooth.",
+        "Spread into buttered pan. Cool for 1 hour at room temperature, then cut into squares.",
+        "Store in an airtight container in the refrigerator."
+      ],
+      "notes": "Makes about 5 lbs. Rich and chocolatey fudge."
+    },
+    {
+      "id": 136,
+      "title": "Veggie Pizza",
+      "category": "Side Dish",
+      "creator": "Joy P.",
+      "ingredients": [
+        "1 cup chopped carrots",
+        "1 cup chopped broccoli",
+        "1 cup chopped cauliflower",
+        "1 cup chopped radishes",
+        "2 pkg cream cheese",
+        "1 ½ TBLS mayo",
+        "1 TBLS ranch packet",
+        "2 cans croissant rolls"
+      ],
+      "instructions": [
+        "Mix cream cheese, mayo, and ranch packet together until it tastes good.",
+        "Layout croissants flat and pinch seams together to make the crust.",
+        "Bake according to package directions. Let cool.",
+        "After cooling, spread cream cheese mixture onto crust.",
+        "Top with chopped vegetables."
+      ],
+      "notes": "Makes a 9x13 pan. Fresh and colorful veggie pizza, perfect as a snack or side dish."
+    },
+    {
+      "id": 137,
+      "title": "Chicken Enchilada Soup",
+      "category": "Main Dish",
+      "creator": "KayLynn S.",
+      "ingredients": [
+        "1 TBLS vegetable oil",
+        "1 lb chopped chicken breast",
+        "½ cup diced onion",
+        "1 pressed garlic clove",
+        "4 cups chicken broth",
+        "1 cup masa harina",
+        "3 cups water",
+        "1 cup enchilada sauce",
+        "16 oz Velveeta",
+        "1 tsp salt",
+        "1 tsp chili powder",
+        "½ tsp cumin"
+      ],
+      "instructions": [
+        "Add 1 tsp of oil to a large pot, cook over medium heat. Brown chicken breast 4-5 min each side. Set chicken aside.",
+        "Add onions and garlic and sauté for 2 min over medium heat.",
+        "Add chicken broth.",
+        "Combine masa harina with 2 cups of water in a medium bowl and whisk until blended.",
+        "Add masa mixture with onions and broth.",
+        "Add remaining water, enchilada sauce, cheese, and spices.",
+        "Cook over medium heat until cheese is melted and soup is hot.",
+        "Garnish with crumbled tortilla chips, salsa, sour cream, or shredded cheese."
+      ],
+      "notes": "Hearty and flavorful soup, perfect for a comforting meal."
+    },
+    {
+      "id": 138,
+      "title": "Pumpkin Bars",
+      "category": "Dessert",
+      "creator": "KayLynn S.",
+      "ingredients": [
+        "2 cups flour",
+        "1 tsp baking powder",
+        "1 tsp soda",
+        "½ tsp salt",
+        "2 tsp cinnamon",
+        "4 eggs",
+        "2 cups sugar",
+        "2 cups pumpkin",
+        "1 cup oil",
+        "2/3 cup powdered sugar (for frosting)",
+        "1 tsp vanilla (for frosting)",
+        "1 pkg sour cream (for frosting)",
+        "6 tsp real margarine (for frosting)"
+      ],
+      "instructions": [
+        "Add all main ingredients and bake at 350° for 30 min.",
+        "For frosting, combine powdered sugar, vanilla, sour cream, and margarine. Spread over cooled bars."
+      ],
+      "notes": "Seasonal treat, great for fall and holidays."
+    },
+    {
+      "id": 139,
+      "title": "Chili",
+      "category": "Main Dish",
+      "creator": "KayLynn S.",
+      "ingredients": [
+        "1 green pepper, diced",
+        "1 lb hamburger",
+        "1 garlic clove, diced",
+        "1 large can whole tomatoes",
+        "½ cup ketchup",
+        "2 cans kidney beans, drained",
+        "1 can pork and beans",
+        "1 large onion, chopped",
+        "2 TBLS vinegar",
+        "1 TBLS sugar",
+        "½ cup chopped celery",
+        "3 TBLS chili powder",
+        "½ tsp oregano",
+        "1 TBLS Worcestershire sauce",
+        "½ tsp pepper",
+        "3 bay leaves",
+        "3 shakes Tabasco sauce",
+        "1 tsp seasoning salt",
+        "Mushrooms (optional)"
+      ],
+      "instructions": [
+        "Brown hamburger and place in a large crock pot with all ingredients.",
+        "Simmer on low for a few hours.",
+        "Can also add mushrooms if desired."
+      ],
+      "notes": "Rich and hearty chili, perfect for cold days. Simmering enhances flavors."
+    },
+    {
+      "id": 140,
+      "title": "French Bread Pizza",
+      "category": "Main Dish",
+      "creator": "KayLynn S.",
+      "ingredients": [
+        "1 loaf French bread",
+        "Pizza sauce",
+        "Chopped green pepper",
+        "Pepperoni",
+        "Sliced olives",
+        "Mushrooms",
+        "Mozzarella cheese"
+      ],
+      "instructions": [
+        "Cut French bread in half lengthwise.",
+        "Spread with pizza sauce.",
+        "Arrange desired toppings on sauce and sprinkle with cheese.",
+        "Bake at 400° for 10 minutes or until cheese is melted and bubbly."
+      ],
+      "notes": "Customizable and quick, a great alternative to traditional pizza."
+    },
+    {
+      "id": 141,
+      "title": "Daniel’s Favorite Chocolate Chip Cookies",
+      "category": "Dessert",
+      "creator": "Kim S.",
+      "ingredients": [
+        "1 cup butter",
+        "1 cup brown sugar",
+        "¼ cup white sugar",
+        "2 eggs",
+        "1 ½ tsp vanilla",
+        "Small box instant vanilla pudding",
+        "2 cups flour",
+        "1 ½ tsp baking soda",
+        "Pinch of salt",
+        "2 cups oatmeal",
+        "Bag of mini chocolate chips"
+      ],
+      "instructions": [
+        "Mix ingredients in the order given.",
+        "Bake at 320° for 11 min."
+      ],
+      "notes": "Soft and chewy cookies with a unique twist from vanilla pudding."
+    },
+    {
+      "id": 142,
+      "title": "Pheasant or Chicken",
+      "category": "Main Dish",
+      "creator": "Kim S.",
+      "ingredients": [
+        "4 breasts of pheasant or chicken",
+        "4 slices bacon",
+        "4 slices dried beef",
+        "1 can cream of chicken/mushroom soup",
+        "1 cup sour cream"
+      ],
+      "instructions": [
+        "Wrap meat with one piece of beef, then one slice of bacon.",
+        "Place in bottom of greased 9x13 inch pan.",
+        "Mix soup and sour cream, spread over meat.",
+        "Bake at 275° for 3 ½ hours.",
+        "Can be prepared ahead of time and refrigerated overnight."
+      ],
+      "notes": "Tender and flavorful, great for a comforting meal."
+    },
+    {
+      "id": 143,
+      "title": "Taco Pie",
+      "category": "Main Dish",
+      "creator": "Kim S.",
+      "ingredients": [
+        "2¼ cups Bisquick",
+        "½ cup water",
+        "2 cups corn chips, crushed",
+        "1 lb hamburger, browned and drained",
+        "1 pkg taco seasoning",
+        "½ cup water",
+        "1 cup sour cream",
+        "1 ½ cups shredded cheddar cheese"
+      ],
+      "instructions": [
+        "Mix Bisquick and half a cup of water to make crust.",
+        "Mix hamburger, taco seasoning, and a half a cup of water.",
+        "Layer 1 cup of the corn chips, hamburger mixture, sour cream, cheddar cheese, and the rest of the corn chips on top.",
+        "Bake at 375° for 20-25 min.",
+        "Serve with chopped lettuce, tomatoes, and black olives (optional) on top."
+      ],
+      "notes": "A fun and tasty twist on classic tacos."
+    },
+    {
+      "id": 144,
+      "title": "Snicker Salad",
+      "category": "Dessert",
+      "creator": "Kim S.",
+      "ingredients": [
+        "1 large pkg instant vanilla pudding",
+        "1 cup milk",
+        "8 oz tub cool whip",
+        "2 large apples, cut up",
+        "4 Snicker bars, cut up"
+      ],
+      "instructions": ["Mix all ingredients together.", "Enjoy."],
+      "notes": "A unique and easy dessert salad combining apples and Snickers."
+    },
+    {
+      "id": 145,
+      "title": "Broccoli Cheese Soup",
+      "category": "Main Dish",
+      "creator": "Kim S.",
+      "ingredients": [
+        "¼ cup butter",
+        "1 can cream of chicken soup",
+        "1 soup can of milk",
+        "3 bunches broccoli, chopped and steamed",
+        "Salt",
+        "Pepper",
+        "1 ½ cup cheddar cheese"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Cook over low heat until hot."
+      ],
+      "notes": "A creamy and comforting soup, perfect for cold days."
+    },
+    {
+      "id": 146,
+      "title": "Old El Paso Easy Beef Enchiladas",
+      "category": "Main Dish",
+      "creator": "Kim S.",
+      "ingredients": [
+        "1 lb hamburger",
+        "1 large can enchilada sauce",
+        "2 cups shredded cheddar cheese",
+        "Flour tortilla shells"
+      ],
+      "instructions": [
+        "Brown and drain hamburger.",
+        "Mix in ¾ cup sauce and 1 cup cheese.",
+        "Spoon meat filling onto center of tortilla shell, roll and place in greased 9x13 inch pan.",
+        "Pour remaining enchilada sauce over top and sprinkle remaining cheese.",
+        "Bake at 375° for 15-20 min."
+      ],
+      "notes": "Easy and delicious enchiladas, perfect for a quick dinner."
+    },
+    {
+      "id": 147,
+      "title": "Baked Pork Chops",
+      "category": "Main Dish",
+      "creator": "Kim S.",
+      "ingredients": [
+        "4-6 pork chops",
+        "1 can cream of chicken soup",
+        "1 medium onion, sliced (optional)",
+        "3 TBLS ketchup",
+        "2 tsp Worcestershire sauce",
+        "Peeled potatoes (optional)"
+      ],
+      "instructions": [
+        "Put chops in a roaster.",
+        "Place sliced onion on top of each chop (optional).",
+        "Combine remaining ingredients and pour over top.",
+        "Cover and bake at 350° for 1 ½ hours.",
+        "Optional - lay peeled potatoes around on top of meat, bake all together."
+      ],
+      "notes": "Simple and savory pork chops, great for a hearty meal."
+    },
+    {
+      "id": 148,
+      "title": "Ring Hotdish",
+      "category": "Main Dish",
+      "creator": "Kim S.",
+      "ingredients": [
+        "1 lb hamburger",
+        "1 lb pork sausage",
+        "2 cans cream corn",
+        "2 cans chicken and rice soup",
+        "1 pkg ring macaroni",
+        "Onion",
+        "Salt",
+        "Pepper",
+        "Bread crumbs",
+        "Melted butter"
+      ],
+      "instructions": [
+        "Brown hamburger and onion together.",
+        "Mix remaining ingredients and hamburger.",
+        "Top with bread crumbs and melted butter (mixed).",
+        "Bake at 350° for 1 hour."
+      ],
+      "notes": "Hearty and comforting casserole, great for family dinners."
+    },
+    {
+      "id": 149,
+      "title": "Blueberry Crisp",
+      "category": "Dessert",
+      "creator": "Nancy S.",
+      "ingredients": [
+        "2 cups sugar",
+        "1 cup margarine, softened",
+        "1 ½ cups flour",
+        "2 tsp cinnamon",
+        "1 tsp salt",
+        "8 cups blueberries"
+      ],
+      "instructions": [
+        "Mix all ingredients except fruit in a mixer.",
+        "Place fruit in the bottom of an ungreased pan, and put crumbled mixer mixture on top of fruit.",
+        "Bake at 350° for 50 min or until crumbled mixture is light brown."
+      ],
+      "notes": "Apples or rhubarb can be used instead of blueberries. A versatile and delicious dessert."
+    },
+    {
+      "id": 150,
+      "title": "Rhonda’s Pizza Hotdish",
+      "category": "Main Dish",
+      "creator": "Rhonda S.",
+      "ingredients": [
+        "1 1/2 lb. hamburger or Italian sausage",
+        "1 can pizza sauce",
+        "1 bag extra wide egg noodles",
+        "1 can (16 oz) tomato sauce",
+        "1 can milk",
+        "1 large pkg shredded Mozzarella cheese",
+        "1 pkg. pepperoni, sliced"
+      ],
+      "instructions": [
+        "Brown hamburger/sausage and drain.",
+        "While browning meat, cook egg noodles and drain.",
+        "Mix all ingredients in a large bowl and then place into a large casserole.",
+        "Bake in oven at 350° until heated through."
+      ],
+      "notes": "Hearty and comforting, perfect for a family dinner."
+    },
+    {
+      "id": 151,
+      "title": "Adam’s Favorite Crock Pot Beef Stroganoff",
+      "category": "Main Dish",
+      "creator": "Rhonda S.",
+      "ingredients": [
+        "3 to 4 lbs. round steak",
+        "1 pkg beef mushroom dry soup mix",
+        "2 cans cream of mushroom soup",
+        "1 c. sour cream (optional)",
+        "1 can French onion soup",
+        "Cooked noodles"
+      ],
+      "instructions": [
+        "Cut round steak into strips.",
+        "Mix the soups in the crockpot.",
+        "Add the raw meat and cook on low for 8-10 hours (high for 4-5 hours).",
+        "If using sour cream, add it just before serving over the cooked noodles."
+      ],
+      "notes": "Beefy mushroom dry soup mix can be substituted with any beef dry soup mix."
+    },
+    {
+      "id": 152,
+      "title": "Chip Dip",
+      "category": "Other",
+      "creator": "Rhonda S.",
+      "ingredients": [
+        "1 pkg sausage",
+        "1 can tomatoes with green chilies",
+        "1 large package of cream cheese"
+      ],
+      "instructions": [
+        "Brown sausage and drain.",
+        "Put the tomatoes and cream cheese into a glass bowl. Soften the cream cheese in the microwave for a couple of minutes.",
+        "Stir the tomatoes and cream cheese. If not softened, put back in the microwave for a couple more minutes.",
+        "Combine the sausage with the tomatoes/cream cheese mixture in a crock pot.",
+        "Serve with tortilla chips."
+      ],
+      "notes": "The 'Scoops' type tortilla chips work really well with this dip."
+    },
+    {
+      "id": 153,
+      "title": "Cheesy Hashbrowns",
+      "category": "Side Dish",
+      "creator": "Roxanne S.",
+      "ingredients": [
+        "2 ½ lbs thawed hashbrowns",
+        "1 can cheddar cheese soup",
+        "1 can celery soup"
+      ],
+      "instructions": [
+        "Mix all ingredients in a 9x13 inch pan.",
+        "Bake for 1 ½ hours at 350°."
+      ],
+      "notes": "A simple and comforting cheesy potato dish."
+    },
+    {
+      "id": 154,
+      "title": "Hotdish",
+      "category": "Main Dish",
+      "creator": "Roxanne S.",
+      "ingredients": [
+        "1 lb hamburger",
+        "1 onion",
+        "2 cans chicken and rice soup",
+        "5 cups Rice Krispies",
+        "1 can cream of mushroom soup"
+      ],
+      "instructions": [
+        "Brown hamburger and drain.",
+        "Mix all ingredients together and bake for 45 min at 350°."
+      ],
+      "notes": "A unique casserole combining hamburger and Rice Krispies for texture."
+    },
+    {
+      "id": 155,
+      "title": "Impossible Cheeseburger Pie",
+      "category": "Main Dish",
+      "creator": "Roxanne S.",
+      "ingredients": [
+        "1 lb hamburger",
+        "½ cup Bisquick",
+        "1 cup chopped onion",
+        "1 cup milk",
+        "½ tsp salt",
+        "2 eggs",
+        "1 cup shredded cheddar cheese"
+      ],
+      "instructions": [
+        "Preheat oven to 400°. Grease a 9-inch pie plate.",
+        "Brown hamburger and onion together and drain. Stir in salt.",
+        "Spread into pie plate and sprinkle with cheese.",
+        "Stir remaining ingredients with a fork until blended. Pour into pie plate.",
+        "Bake for 25 min or until a knife comes out clean."
+      ],
+      "notes": "Makes 6 servings. A quick and easy twist on classic cheeseburgers."
+    },
+    {
+      "id": 156,
+      "title": "Grouse",
+      "category": "Main Dish",
+      "creator": "Roxanne S.",
+      "ingredients": [
+        "Meat from grouse breast, cut off the bone",
+        "Flour for browning",
+        "½ can of cream of mushroom soup",
+        "Milk (for diluting soup)"
+      ],
+      "instructions": [
+        "Brown meat dipped in flour.",
+        "Spread ½ can of cream of mushroom soup into the bottom of a casserole dish.",
+        "Place browned meat on top of soup.",
+        "Pour the other half of the soup (diluted with milk) over meat.",
+        "Bake at 350° for 45-60 min."
+      ],
+      "notes": "Simple and savory grouse dish, with creamy mushroom soup."
+    },
+    {
+      "id": 157,
+      "title": "Pheasant",
+      "category": "Main Dish",
+      "creator": "Roxanne S.",
+      "ingredients": [
+        "Pheasant, browned and dipped in oven fry (for chicken)",
+        "1 can cream of chicken soup (diluted with milk)"
+      ],
+      "instructions": [
+        "Brown the pheasant that has been dipped in oven fry.",
+        "Place meat in a casserole dish.",
+        "Pour 1 can of cream of chicken soup (diluted with milk) over the top of the meat.",
+        "Bake at 350° for 1 ½-2 hours."
+      ],
+      "notes": "Tender and flavorful pheasant dish, great for a special meal."
+    },
+    {
+      "id": 158,
+      "title": "Ranch Beans",
+      "category": "Side Dish",
+      "creator": "Roxanne S.",
+      "ingredients": [
+        "2 cans pork and beans",
+        "1 lb hamburger",
+        "½ cup ketchup",
+        "2 TBLS brown sugar",
+        "2 TBLS molasses",
+        "1 tsp dry mustard (optional)",
+        "Bacon (optional)"
+      ],
+      "instructions": [
+        "Brown hamburger and drain.",
+        "Mix all ingredients together.",
+        "Bake at 350° for 25-30 min."
+      ],
+      "notes": "A hearty bean dish that can be customized with bacon and mustard."
+    },
+    {
+      "id": 159,
+      "title": "Tapioca Jell-o",
+      "category": "Dessert",
+      "creator": "Roxanne S.",
+      "ingredients": [
+        "1 3oz pkg Strawberry Jell-o",
+        "2 cups cool whip",
+        "2 3oz pkg Jell-o tapioca",
+        "1 10oz pkg frozen strawberries"
+      ],
+      "instructions": [
+        "Add 2 ½ cups of boiling water to Jell-o and tapioca. Boil for 2 min.",
+        "Cool slightly. Add cool whip.",
+        "Add frozen strawberries. Chill.",
+        "Garnish with cool whip and fruit."
+      ],
+      "notes": "Substitute with any frozen fruits for variety. A light and refreshing dessert."
+    },
+    {
+      "id": 160,
+      "title": "Soda Cracker Pie",
+      "category": "Dessert",
+      "creator": "Roxanne S.",
+      "ingredients": [
+        "14 soda crackers (rolled fine)",
+        "3 egg whites",
+        "1 cup sugar",
+        "1 ½ tsp vanilla",
+        "½ tsp baking powder",
+        "Walnuts (optional)",
+        "1 cup whipping cream (for topping)",
+        "1 10oz pkg frozen strawberries (for topping)"
+      ],
+      "instructions": [
+        "Beat egg whites until frothy. Start adding sugar gradually, beat until mixture stands in stiff peaks.",
+        "Fold in vanilla, crackers, and walnuts.",
+        "Spread evenly in a greased 9-inch pie plate.",
+        "Bake at 360° for 30 min and cool.",
+        "For topping: beat whipping cream until stiff. Fold in strawberries. Spread over pie and refrigerate for 4 hours or more."
+      ],
+      "notes": "Makes 6-8 servings. Double recipe for a 9x13 inch pan. A unique pie with a light and crispy base."
+    },
+    {
+      "id": 161,
+      "title": "Nacho Chips",
+      "category": "Other",
+      "creator": "Roxanne S.",
+      "ingredients": [
+        "1 lb hamburger (browned)",
+        "Onion and green pepper (optional)",
+        "1 jar picante sauce",
+        "1 small jar Cheez Whiz",
+        "1 can refried beans",
+        "Seasonings",
+        "Chips for serving"
+      ],
+      "instructions": [
+        "Place chips in a cake pan and pour mixture over top.",
+        "Bake for a short while.",
+        "Top with chopped lettuce."
+      ],
+      "notes": "A quick and easy nacho dish, perfect for casual gatherings or as a snack."
+    },
+    {
+      "id": 162,
+      "title": "Nut Goodie Bars",
+      "category": "Dessert",
+      "creator": "Roxanne S.",
+      "ingredients": [
+        "12 oz chocolate chips",
+        "12 oz butterscotch chips",
+        "1 cup peanut butter",
+        "¾ pkg mini marshmallows",
+        "1 cup salted peanuts"
+      ],
+      "instructions": [
+        "Melt chocolate chips and butterscotch chips in a double boiler.",
+        "Add peanut butter, marshmallows, and peanuts.",
+        "Spread into a 9x13 inch pan. Chill."
+      ],
+      "notes": "A delightful blend of nuts, chocolate, and butterscotch. Chill before serving."
+    },
+    {
+      "id": 163,
+      "title": "Banana Bread",
+      "category": "Baked Goods",
+      "creator": "Roxanne S.",
+      "ingredients": [
+        "½ cup shortening",
+        "Pinch to 1/2 tsp salt",
+        "1 cup sugar",
+        "1 tsp soda",
+        "3 eggs (beaten)",
+        "4 bananas",
+        "2 cups flour",
+        "½ cup nuts"
+      ],
+      "instructions": [
+        "Cream shortening, sugar, and eggs.",
+        "Stir dry ingredients into creamed mixture.",
+        "Add bananas and beat well.",
+        "Pour half of the mixture into 2 small greased loaf pans.",
+        "Bake at 250° for 40 min or until a toothpick comes out clean."
+      ],
+      "notes": "Makes 2 loaves. A classic, moist banana bread recipe."
+    },
+    {
+      "id": 164,
+      "title": "Twix Bars",
+      "category": "Dessert",
+      "creator": "Roxanne S.",
+      "ingredients": [
+        "Club crackers",
+        "½ cup margarine",
+        "½ cup white sugar",
+        "1 cup graham crackers",
+        "½ cup brown sugar",
+        "¼ cup milk",
+        "2/3 cup peanut butter",
+        "½ cup chocolate chips",
+        "½ cup butterscotch chips"
+      ],
+      "instructions": [
+        "First layer: Line the bottom of a 9x13 cake pan with club crackers.",
+        "Second layer: Boil margarine, both sugars, graham crackers, and milk for approximately 4 ½ minutes and pour over first layer.",
+        "Third layer: Add another layer of club crackers.",
+        "Fourth Layer: Melt peanut butter, chocolate chips, and butterscotch chips in the microwave and spread over the third layer."
+      ],
+      "notes": "A layered treat resembling Twix bars, perfect for satisfying a sweet tooth."
+    },
+    {
+      "id": 165,
+      "title": "Chicken Rice Soup",
+      "category": "Main Dish",
+      "creator": "Patty W.",
+      "ingredients": [
+        "4 cups chicken stock and bouillon",
+        "¼ cup long grain rice",
+        "¼ cup onion",
+        "¾ cup celery",
+        "¼ cup carrots",
+        "1 TBLS lemon juice",
+        "½ tsp pepper",
+        "3 TBLS butter",
+        "3 TBLS flour",
+        "1 cup chopped cooked chicken",
+        "1 TBLS parsley",
+        "½ tsp salt",
+        "¼ tsp thyme leaves"
+      ],
+      "instructions": [
+        "Heat stock to boiling; add rice, onion, celery, and carrots. Cook slowly.",
+        "Melt butter and add flour. Cook approx 2 min.",
+        "Stir into soup form."
+      ],
+      "notes": "A comforting chicken rice soup with a hint of lemon and thyme."
+    },
+    {
+      "id": 166,
+      "title": "Chicken with Stuffing",
+      "category": "Main Dish",
+      "creator": "Patty W.",
+      "ingredients": [
+        "8 oz stuffing mix",
+        "2 sticks margarine",
+        "4-6 chicken breasts (boiled and boneless)",
+        "1 cup chicken broth",
+        "1 can cream of celery or cream of chicken soup",
+        "8 oz sour cream"
+      ],
+      "instructions": [
+        "Mix melted margarine with stuffing. Line a 9x13 inch pan with stuffing mix; reserve some mixture for topping.",
+        "Cut cooked chicken into cubes. Put on top of stuffing mix.",
+        "Mix sour cream and soup together and pour onto chicken.",
+        "Add the rest of the stuffing. Pour chicken broth over stuffing.",
+        "Bake at 350° for 45-60 min."
+      ],
+      "notes": "A satisfying dish combining tender chicken and flavorful stuffing."
+    },
+    {
+      "id": 167,
+      "title": "Green Bean Casserole",
+      "category": "Side Dish",
+      "creator": "Patty W.",
+      "ingredients": [
+        "2 cans (10 oz) cream of mushroom soup",
+        "1 cup milk",
+        "2 tsp soy sauce",
+        "¼ tsp pepper",
+        "8 cups cooked cut green beans",
+        "2 2/3 cups French fried onions"
+      ],
+      "instructions": [
+        "Mix soup, milk, soy sauce, pepper, beans, and 1 1/3 cup of fried onions in a 3 qt casserole dish.",
+        "Bake at 350° for 25 min or until hot.",
+        "Stir. Sprinkle remaining fried onions and bake 5 more min."
+      ],
+      "notes": "Makes 10 servings. A classic holiday side dish loved by many."
+    },
+    {
+      "id": 168,
+      "title": "Ultimate Baked Potato Soup",
+      "category": "Main Dish",
+      "creator": "Patty W.",
+      "ingredients": [
+        "1 TBLS butter",
+        "1 ½ cups finely chopped onion",
+        "2 TBLS minced garlic",
+        "1 can (14.5 oz) chicken broth",
+        "3 cups milk",
+        "1 tsp salt",
+        "¼ tsp pepper",
+        "3 lbs scrubbed, pierced potatoes",
+        "Shredded cheddar cheese (for topping)",
+        "Crumbled bacon (for topping)",
+        "Chopped scallions (for topping)"
+      ],
+      "instructions": [
+        "Bake potatoes at 400° for 1 hour on a cookie sheet. Peel off skins.",
+        "In a 4-6 qt stockpot, melt butter. Stir in onions and garlic. Cover and cook until softened, not browned.",
+        "Add 2/3 of the potatoes. Mash with a potato masher.",
+        "Gradually stir in chicken broth and milk. Add salt and pepper. Bring to a simmer, stirring occasionally.",
+        "Cut remaining potatoes into small cubes. Add to soup. Stir gently to reheat.",
+        "Sprinkle with cheddar cheese, bacon, and scallions before serving."
+      ],
+      "notes": "A hearty and comforting soup, perfect for cold days. Toppings add a delicious crunch and flavor."
+    },
+    {
+      "id": 169,
+      "title": "Chicken Wings",
+      "category": "Main Dish",
+      "creator": "Patty W.",
+      "ingredients": [
+        "24 whole chicken wings",
+        "1 cup sugar",
+        "2/3 cup soy sauce",
+        "½ cup water",
+        "1 green pepper, chopped"
+      ],
+      "instructions": [
+        "Dip wings in flour, brown in butter but do not sear. Place in pan.",
+        "Bring sauce ingredients (sugar, soy sauce, water, green pepper) to a boil, spoon over wings.",
+        "Bake at 350° for 1 hour, turning after half an hour."
+      ],
+      "notes": "Savory and slightly sweet wings, perfect for gatherings or a family meal."
+    },
+    {
+      "id": 170,
+      "title": "Fresh Salsa",
+      "category": "Side Dish",
+      "creator": "Patty W.",
+      "ingredients": [
+        "8 medium tomatoes",
+        "Onion",
+        "1/3 cup fresh cilantro",
+        "2-3 jalapeno peppers",
+        "1 can (2 oz) ripe olives",
+        "3 ½ tsp lime juice",
+        "1 TBLS vinegar",
+        "1 TBLS oil",
+        "1-2 tsp chili powder",
+        "1-2 tsp cumin",
+        "1 tsp garlic powder",
+        "1 tsp oregano",
+        "¼ tsp salt"
+      ],
+      "instructions": ["Combine all ingredients and refrigerate."],
+      "notes": "A fresh and flavorful salsa, perfect for dipping or as a condiment."
+    },
+    {
+      "id": 171,
+      "title": "Orange Bavarian",
+      "category": "Dessert",
+      "creator": "Patty W.",
+      "ingredients": [
+        "3 pkg (3 oz each) orange Jell-O",
+        "2 ¼ cups boiling water",
+        "1 cup sour cream",
+        "1 quart orange sherbet",
+        "1 can mandarin oranges, drained",
+        "Red and green grapes (optional)"
+      ],
+      "instructions": [
+        "Dissolve Jell-O in water. Stir in sour cream until smooth.",
+        "Mix in sherbet until melted.",
+        "Chill until partially set.",
+        "Fold in oranges.",
+        "Pour into a sprayed, 8-inch, ring mold.",
+        "Chill."
+      ],
+      "notes": "Makes 8 servings. A light and refreshing dessert, perfect for gatherings."
     }
   ]
 }
