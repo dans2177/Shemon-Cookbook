@@ -20,7 +20,7 @@ const CategoriesPage = ({ categories, authors }) => {
   return (
     <div className="bg-yellow-700 min-h-screen flex overflow-hidden">
       {/* Authors Column */}
-      <div className="flex flex-col overflow-y-auto pb-40 w-1/2 lg:w-1/4 h-screen p-4 pl-10 md:pl-20">
+      <div className="flex flex-col pb-40 w-1/2 lg:w-1/4 h-fit p-4 pl-10 md:pl-20">
         <h2 className="pt-10 text-lg font-montserrat">Authors</h2>
         <ul>
           {authors.map((author, index) => (
@@ -63,7 +63,7 @@ const CategoriesPage = ({ categories, authors }) => {
       </div>
       {/* Side Column with Vertical Line and Text */}
       <div
-        className="relative hidden h-screen lg:flex md:flex-col md:justify-end md:w-1/4"
+        className="relative hidden lg:flex md:flex-col md:justify-end md:w-1/4"
         style={{
           backgroundImage: `url(${asideImage})`,
           backgroundSize: "cover",
