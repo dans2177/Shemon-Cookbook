@@ -9,6 +9,7 @@
 
 body {
   background-color: #88815f;
+  padding-top: env(safe-area-inset-top);
 }
 
 /* Styling the scrollbar track (background) */
