@@ -1,4 +1,3 @@
-# Shemon-Cookbook
 🍳 Family Cookbook: Where Code Meets Kitchen!
 
 What's on the Menu? 📖

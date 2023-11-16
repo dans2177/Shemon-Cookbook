@@ -34,7 +34,7 @@ const RecipePage = ({ recipes }) => {
           </ul>
         </div>
 
-        <div className="md:col-span-2 md:border-l-2 border-black md:h-screen pl-4 ml-4">
+        <div className="mb-40 md:col-span-2 md:border-l-2 border-black md:h-screen pl-4 ml-4">
           <strong className="text-xl md:text-2xl">Instructions:</strong>
           <ol className="list-decimal pl-4 text-lg md:pl-6">
             {recipe.instructions.map((instruction, index) => (
