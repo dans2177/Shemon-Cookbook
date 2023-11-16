@@ -1,10 +1,10 @@
 // App.jsx
-
 import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router } from "react-router-dom";
 import AnimatedRoutes from "./components/AnimatedRoutes.jsx";
 import recipesData from "./data/recipes.json";
 import BackButton from "./components/backButton.jsx";
+import InfoPage from "./components/infoPage.jsx";
 
 function App() {
   const [recipes, setRecipes] = useState([]);
@@ -32,6 +32,7 @@ function App() {
         authors={authors}
         recipes={recipes}
         lastName={lastName}
+        InfoPage={InfoPage}
       />
       <BackButton />
     </Router>

@@ -3659,7 +3659,7 @@
       "id": 165,
       "title": "Chicken Rice Soup",
       "category": "Main Dish",
-      "creator": "Patty W.",
+      "creator": "Patti W.",
       "ingredients": [
         "4 cups chicken stock and bouillon",
         "¼ cup long grain rice",
@@ -3686,7 +3686,7 @@
       "id": 166,
       "title": "Chicken with Stuffing",
       "category": "Main Dish",
-      "creator": "Patty W.",
+      "creator": "Patti W.",
       "ingredients": [
         "8 oz stuffing mix",
         "2 sticks margarine",
@@ -3708,7 +3708,7 @@
       "id": 167,
       "title": "Green Bean Casserole",
       "category": "Side Dish",
-      "creator": "Patty W.",
+      "creator": "Patti W.",
       "ingredients": [
         "2 cans (10 oz) cream of mushroom soup",
         "1 cup milk",
@@ -3728,7 +3728,7 @@
       "id": 168,
       "title": "Ultimate Baked Potato Soup",
       "category": "Main Dish",
-      "creator": "Patty W.",
+      "creator": "Patti W.",
       "ingredients": [
         "1 TBLS butter",
         "1 ½ cups finely chopped onion",
@@ -3756,7 +3756,7 @@
       "id": 169,
       "title": "Chicken Wings",
       "category": "Main Dish",
-      "creator": "Patty W.",
+      "creator": "Patti W.",
       "ingredients": [
         "24 whole chicken wings",
         "1 cup sugar",
@@ -3775,7 +3775,7 @@
       "id": 170,
       "title": "Fresh Salsa",
       "category": "Side Dish",
-      "creator": "Patty W.",
+      "creator": "Patti W.",
       "ingredients": [
         "8 medium tomatoes",
         "Onion",
@@ -3798,7 +3798,7 @@
       "id": 171,
       "title": "Orange Bavarian",
       "category": "Dessert",
-      "creator": "Patty W.",
+      "creator": "Patti W.",
       "ingredients": [
         "3 pkg (3 oz each) orange Jell-O",
         "2 ¼ cups boiling water",
@@ -3816,6 +3816,586 @@
         "Chill."
       ],
       "notes": "Makes 8 servings. A light and refreshing dessert, perfect for gatherings."
+    },
+    {
+      "id": 172,
+      "title": "Peanut Clusters",
+      "category": "Dessert",
+      "creator": "Patti W.",
+      "ingredients": [
+        "2 ¼ lb white bark (12 squares)",
+        "12 oz bag semi-sweet chocolate chips",
+        "12 oz bag milk chocolate chips",
+        "3 jars roasted peanuts"
+      ],
+      "instructions": [
+        "Melt white bark, semi-sweet chocolate chips, and milk chocolate chips in the microwave on medium, stirring every few minutes.",
+        "Stir in the roasted peanuts.",
+        "Spoon teaspoon-sized portions onto wax paper."
+      ],
+      "notes": "Simple and delicious peanut clusters, perfect for a quick sweet treat."
+    },
+    {
+      "id": 173,
+      "title": "Peanut Cookies",
+      "category": "Baked Goods",
+      "creator": "Patti W.",
+      "ingredients": [
+        "1 cup brown sugar",
+        "1 cup oatmeal",
+        "1 cup shortening",
+        "1 cup corn flakes",
+        "1 cup sugar",
+        "1 tsp baking powder",
+        "2 eggs",
+        "1 tsp vanilla",
+        "1 tsp baking soda (in 2 tsp hot water)",
+        "1 ½ cups flour",
+        "1 cup peanuts"
+      ],
+      "instructions": [
+        "Mix all ingredients together.",
+        "Spoon onto a cookie sheet.",
+        "Bake at 350° for 12-15 minutes."
+      ],
+      "notes": "Crunchy and nutty cookies, a delightful treat for any occasion."
+    },
+    {
+      "id": 174,
+      "title": "No Bake Cookies",
+      "category": "Dessert",
+      "creator": "Patti W.",
+      "ingredients": [
+        "½ cup milk",
+        "½ cup shortening",
+        "½ cup cocoa",
+        "Pinch of salt",
+        "2 cups sugar",
+        "3 cups oatmeal",
+        "½ cup coconut",
+        "Peanut butter"
+      ],
+      "instructions": [
+        "Bring milk, shortening, cocoa, salt, and sugar to a rolling boil.",
+        "Add oatmeal, coconut, and peanut butter.",
+        "Drop by teaspoonfuls and cool."
+      ],
+      "notes": "Easy and quick to prepare, these cookies are a perfect last-minute dessert."
+    },
+    {
+      "id": 175,
+      "title": "Buttery Butterscotch Cut-outs",
+      "category": "Baked Goods",
+      "creator": "Patti W.",
+      "ingredients": [
+        "1 cup butterscotch chips",
+        "1 cup butter (softened)",
+        "3 cups flour",
+        "1/3 cup packed brown sugar",
+        "½ cup sugar",
+        "1 egg",
+        "2 TBLS milk",
+        "2 tsp vanilla",
+        "2 cups powdered sugar (for frosting)",
+        "½ cup butter (softened, for frosting)",
+        "1-2 TBLS milk (for frosting)",
+        "1 tsp vanilla (for frosting)"
+      ],
+      "instructions": [
+        "In a saucepan, melt butterscotch chips over low heat, stirring constantly until smooth. Pour into a large mixing bowl.",
+        "Add all remaining cookie ingredients. Beat at low speed until well mixed.",
+        "Divide dough in half, wrap in plastic, refrigerate until firm (about 1 hour).",
+        "Heat oven to 375°. On a floured surface, roll out dough to ½ inch thickness. Cut with cookie cutters.",
+        "Place on cookie sheet and bake for 5-8 minutes.",
+        "For frosting, combine all frosting ingredients. Beat until fluffy. Frost and decorate cookies."
+      ],
+      "notes": "Makes 4-5 dozen cookies. Fun to decorate and perfect for holidays or special occasions."
+    },
+    {
+      "id": 176,
+      "title": "Oatmeal Bars",
+      "category": "Baked Goods",
+      "creator": "Patti W.",
+      "ingredients": [
+        "4 cups oatmeal",
+        "1 cup shortening",
+        "½ cup white syrup",
+        "1 cup brown sugar",
+        "1 package chocolate chips",
+        "¾ cup peanut butter (for frosting)"
+      ],
+      "instructions": [
+        "Mix oatmeal, shortening, white syrup, and brown sugar together.",
+        "Bake at 350° for 10 minutes. Cool.",
+        "For frosting, melt chocolate chips and peanut butter together. Spread over cooled bars."
+      ],
+      "notes": "A simple yet delightful treat combining the flavors of oatmeal and chocolate."
+    },
+    {
+      "id": 177,
+      "title": "Rhubarb Muffins",
+      "category": "Baked Goods",
+      "creator": "Patti W.",
+      "ingredients": [
+        "1 ¼ cups brown sugar",
+        "½ tsp salt",
+        "2½ cups flour",
+        "1 tsp baking powder",
+        "1 tsp baking soda",
+        "½ cup oil",
+        "1 cup buttermilk",
+        "1 egg",
+        "2 tsp vanilla",
+        "1½ cups rhubarb",
+        "Topping: ½ cup sugar, 1 tsp cinnamon, 1 tsp melted butter"
+      ],
+      "instructions": [
+        "Mix all dry ingredients together, add wet ingredients and rhubarb.",
+        "Put in muffin tins and bake at 400° for 20 minutes.",
+        "For the topping, mix sugar, cinnamon, and melted butter. Top the muffins after they have cooled."
+      ],
+      "notes": "Deliciously moist muffins with the tartness of rhubarb, perfect for a spring treat."
+    },
+    {
+      "id": 178,
+      "title": "White Chocolate Berry Pie",
+      "category": "Dessert",
+      "creator": "Patti W.",
+      "ingredients": [
+        "5 squares white baking chocolate",
+        "2 TBLS milk",
+        "1 package (3 oz) cream cheese, softened",
+        "1/3 cup powdered sugar",
+        "1 tsp grated orange peel",
+        "1 cup whipped whipping cream",
+        "1 9-inch graham cracker crust",
+        "2 cups sliced strawberries"
+      ],
+      "instructions": [
+        "Melt 4 squares of chocolate with milk. Cool to room temperature.",
+        "Beat cream cheese and sugar in a mixing bowl until smooth. Beat in orange peel and melted chocolate.",
+        "Fold in whipped cream. Spread onto crust.",
+        "Arrange strawberries on top. Melt remaining chocolate; drizzle over berries.",
+        "Refrigerate for at least 1 hour. Keep refrigerated."
+      ],
+      "notes": "Makes 8 servings. A luxurious dessert with a combination of white chocolate and berries."
+    },
+    {
+      "id": 179,
+      "title": "Bura Di Beppo’s Garlic Mashed Potatoes",
+      "category": "Side Dish",
+      "creator": "Sharyl K.",
+      "ingredients": [
+        "5 lbs. Red potatoes with skins",
+        "1 lb butter",
+        "5 oz grated romano cheese",
+        "1 TBLS oregano",
+        "¾ tsp salt",
+        "¼ cup minced garlic"
+      ],
+      "instructions": [
+        "Wash potatoes. Boil until tender and soft. Drain.",
+        "Put cooked potatoes in a mixer.",
+        "Add butter, cheese, oregano, salt, and garlic.",
+        "Mix on low until potatoes are smooth."
+      ],
+      "notes": "Rich and flavorful garlic mashed potatoes, a perfect side dish for any meal."
+    },
+    {
+      "id": 180,
+      "title": "Chicken Chili",
+      "category": "Main Dish",
+      "creator": "Sharyl K.",
+      "ingredients": [
+        "2 large cans tomatoes, whole",
+        "1 large can crushed tomatoes",
+        "1 can kidney beans",
+        "1 can garbanzo beans",
+        "1 can black beans",
+        "1 large onion, diced",
+        "1 ½ green peppers, diced",
+        "Fresh crushed garlic (to taste)",
+        "Red pepper (to taste)",
+        "Chili powder (to taste)",
+        "Tabasco sauce (to taste)",
+        "4 boiled chicken breasts, diced"
+      ],
+      "instructions": [
+        "Add all ingredients into a large pot.",
+        "Simmer for 1-2 hours."
+      ],
+      "notes": "A hearty and flavorful chicken chili, perfect for warming up on chilly days."
+    },
+    {
+      "id": 181,
+      "title": "Chicken Delight",
+      "category": "Main Dish",
+      "creator": "Sharyl K.",
+      "ingredients": [
+        "6 chicken breasts",
+        "1 (8 oz) bottle Russian salad dressing",
+        "1 cup apricot jam",
+        "1 package dry onion soup mix"
+      ],
+      "instructions": [
+        "Place chicken in a baking pan.",
+        "Combine dressing, jam, and soup mix. Pour over chicken.",
+        "Bake at 350° for 1 hour, or more depending on thickness.",
+        "Serve with white or brown rice."
+      ],
+      "notes": "A sweet and tangy chicken dish, easy to prepare and delicious."
+    },
+    {
+      "id": 182,
+      "title": "Chow Mein",
+      "category": "Main Dish",
+      "creator": "Sharyl K.",
+      "ingredients": [
+        "½ lb ground turkey or pork",
+        "2 cups water",
+        "2 tsp instant bouillon",
+        "2 TBLS soy sauce",
+        "2 ½ cups chopped celery",
+        "3 TBLS cornstarch"
+      ],
+      "instructions": [
+        "Sauté meat until cooked through.",
+        "Boil water with bouillon, soy sauce, and celery.",
+        "Mix in cornstarch to thicken the sauce.",
+        "Pour the meat into the sauce after reaching the desired thickness.",
+        "Stir well and serve with white rice and/or chow mein noodles."
+      ],
+      "notes": "A simple and classic chow mein recipe, easily adaptable to include additional vegetables or ingredients."
+    },
+    {
+      "id": 183,
+      "title": "Eggplant Meatballs",
+      "category": "Main Dish",
+      "creator": "Sharyl K.",
+      "ingredients": [
+        "1 medium eggplant, peeled and diced",
+        "1 lb ground beef or turkey",
+        "3 slices stale bread",
+        "3 eggs",
+        "½ cup grated romano cheese",
+        "¼ cup chopped parsley",
+        "¼ tsp fennel seed",
+        "¼ tsp pepper",
+        "1 tsp salt",
+        "¼ tsp dried oregano",
+        "¼ tsp garlic powder"
+      ],
+      "instructions": [
+        "Cook eggplant in boiling water. Drain and put in a large pot with meat.",
+        "Soak bread in water, squeeze dry, tear into pieces, and add to the pot.",
+        "Add remaining ingredients.",
+        "Mix lightly but thoroughly.",
+        "Roll mixture into balls and place in a greased pan.",
+        "Bake at 375° for 30-35 minutes."
+      ],
+      "notes": "A unique twist on traditional meatballs, incorporating eggplant for added flavor and texture."
+    },
+    {
+      "id": 184,
+      "title": "Sloppy Joe’s",
+      "category": "Main Dish",
+      "creator": "Sharyl K.",
+      "ingredients": [
+        "1 lb hamburger",
+        "1 onion, diced",
+        "Salt",
+        "Pepper",
+        "¾ cup ketchup",
+        "1 tsp mustard",
+        "1 TBLS vinegar",
+        "1 TBLS brown sugar"
+      ],
+      "instructions": [
+        "Brown hamburger with onion, salt, and pepper; drain.",
+        "Separately, mix and boil ketchup, mustard, vinegar, and sugar.",
+        "Combine all ingredients together in a crock-pot.",
+        "Simmer on low for a couple of hours."
+      ],
+      "notes": "A classic Sloppy Joe’s recipe, perfect for a simple and satisfying meal."
+    },
+    {
+      "id": 185,
+      "title": "Stuffed Shells",
+      "category": "Main Dish",
+      "creator": "Sharyl K.",
+      "ingredients": [
+        "1 lb Italian sausage",
+        "1 package (16 oz) ricotta cheese",
+        "1 small container grated parmesan cheese",
+        "1 package (8 oz) mozzarella cheese",
+        "1 egg",
+        "1 package frozen chopped spinach",
+        "1 box large shells",
+        "1 jar Alfredo sauce",
+        "1 jar spaghetti sauce"
+      ],
+      "instructions": [
+        "Brown sausage and cook shells according to package instructions.",
+        "Mix thawed and drained spinach with half of the ricotta, parmesan, mozzarella cheese, and sausage.",
+        "Pour Alfredo sauce into the bottom of a pan.",
+        "Spoon cheese and sausage mixture into shells and place each shell on top of the sauce.",
+        "Pour half a jar of red sauce over shells and sprinkle with remaining cheeses.",
+        "Bake at 350° for 30 minutes covered and 15 minutes uncovered."
+      ],
+      "notes": "A hearty and delicious stuffed shell dish, perfect for a comforting family meal."
+    },
+    {
+      "id": 186,
+      "title": "Chicken Cherry Pasta Salad",
+      "category": "Side Dish",
+      "creator": "Sharyl K.",
+      "ingredients": [
+        "1 TBLS vegetable oil",
+        "1 package chicken breast strips",
+        "1 package (16 oz) dry gnocchi or shell pasta",
+        "¾ cup thinly sliced celery",
+        "¾ cup chopped red onion",
+        "1 package (5 oz) dried cherries",
+        "1 ½ cups mayo",
+        "1 ¼ cup creamy poppyseed dressing",
+        "1 ½ tsp salt",
+        "¼ tsp pepper",
+        "4 cups baby spinach, stems removed",
+        "1 cup chopped toasted walnuts"
+      ],
+      "instructions": [
+        "Combine chicken, pasta, celery, onion, and cherries.",
+        "Fold 1 ¾ cups dressing into the salad, reserving ¾ cup.",
+        "Cover and chill for several hours or overnight.",
+        "Serve with lettuce and remaining dressing."
+      ],
+      "notes": "An elegant and flavorful pasta salad, great for picnics or as a refreshing side dish."
+    },
+    {
+      "id": 187,
+      "title": "Club Café Black Bean Salad",
+      "category": "Side Dish",
+      "creator": "Sharyl K.",
+      "ingredients": [
+        "1 can (40 oz) black beans, drained",
+        "6 oz brown rice",
+        "1 mango",
+        "¼ cantaloupe",
+        "¼ red onion",
+        "½ cucumber",
+        "1 tomato",
+        "¼ bunch cilantro",
+        "1 TBLS olive oil",
+        "1 TBLS lime juice",
+        "Salt",
+        "Pepper"
+      ],
+      "instructions": [
+        "Cook and cool brown rice.",
+        "Toss all ingredients together.",
+        "Refrigerate."
+      ],
+      "notes": "A vibrant and healthy salad with a refreshing mix of flavors and textures."
+    },
+    {
+      "id": 188,
+      "title": "Garbanzo Bean Salad",
+      "category": "Side Dish",
+      "creator": "Sharyl K.",
+      "ingredients": [
+        "2 cans drained garbanzo beans",
+        "1 tsp salt",
+        "1 bunch cilantro (1/2 cup finely chopped)",
+        "¼ tsp cayenne or red pepper",
+        "6 scallions",
+        "1 jalapeno, chopped",
+        "Juice of 1-2 limes"
+      ],
+      "instructions": ["Mix all ingredients together.", "Refrigerate."],
+      "notes": "A refreshing and zesty salad, great as a side dish or a healthy snack."
+    },
+    {
+      "id": 189,
+      "title": "Broccoli Cheese Soup",
+      "category": "Main Dish",
+      "creator": "Sharyl K.",
+      "ingredients": [
+        "2 TBLS butter",
+        "¼ cup chopped onion",
+        "½ cup shredded carrots",
+        "¼ cup water",
+        "2 cans cream of potato soup",
+        "2 cups milk",
+        "½ cup shredded cheddar cheese",
+        "1 cup cooked broccoli"
+      ],
+      "instructions": [
+        "Sauté butter, onion, and carrots until tender.",
+        "Add water, soup, milk, cheese, and broccoli.",
+        "Heat thoroughly, about 20 minutes."
+      ],
+      "notes": "A creamy and comforting broccoli cheese soup, perfect for chilly evenings."
+    },
+    {
+      "id": 190,
+      "title": "Banana Chocolate Bread",
+      "category": "Baked Goods",
+      "creator": "Sharyl K.",
+      "ingredients": [
+        "½ cup shortening",
+        "1 1/3 cups brown sugar",
+        "1 tsp vanilla",
+        "2 eggs",
+        "2 cups flour",
+        "½ tsp salt",
+        "1 tsp baking soda",
+        "¼ cup milk",
+        "1 tsp vinegar",
+        "1 cup mashed bananas",
+        "1 cup milk chocolate chips"
+      ],
+      "instructions": [
+        "Cream shortening with sugar. Stir in vanilla. Add eggs. Beat well.",
+        "Sift flour with salt and soda. Set aside.",
+        "To make sour milk, combine vinegar and milk.",
+        "Add alternately with flour to the creamed mixture.",
+        "Stir in mashed bananas and chocolate chips.",
+        "Bake at 350° for 1 hour."
+      ],
+      "notes": "A delightful twist on classic banana bread, enhanced with chocolate chips for added sweetness."
+    },
+    {
+      "id": 191,
+      "title": "Pin Wheel Pickles",
+      "category": "Other",
+      "creator": "Sharyl K.",
+      "ingredients": [
+        "Budding ham or corned beef",
+        "Mini kosher dill pickles",
+        "Cream cheese (room temperature)"
+      ],
+      "instructions": [
+        "Take 2 pieces of ham or beef, lay out lengthwise overlapping slightly. Spread cream cheese over the top.",
+        "Repeat for 2 more layers, creating 3 layers in total.",
+        "Dry off pickles, cut off each end. Place a pickle on the meat/cheese layers and roll.",
+        "Wrap each pickle in foil and refrigerate until firm.",
+        "When ready to serve, slice with a serrated knife."
+      ],
+      "notes": "A savory and delightful appetizer, perfect for parties or as a snack."
+    },
+    {
+      "id": 192,
+      "title": "Calico Cheese Dip",
+      "category": "Other",
+      "creator": "Sharyl K.",
+      "ingredients": [
+        "4 cups shredded Monterey jack cheese",
+        "1 can (4 oz) green chilis, chopped",
+        "1 can (2 1/4 oz) sliced ripe olives, drained",
+        "4 green onions, sliced",
+        "3 medium tomatoes, seeded and diced",
+        "½ cup minced fresh parsley",
+        "1 envelope Italian salad dressing mix"
+      ],
+      "instructions": [
+        "Combine cheese, chilis, olives, onions, tomatoes, and parsley.",
+        "Prepare salad dressing according to package directions.",
+        "Pour over cheese mixture and mix well.",
+        "Serve immediately with tortilla chips."
+      ],
+      "notes": "A colorful and tasty cheese dip, great for dipping with tortilla chips."
+    },
+    {
+      "id": 193,
+      "title": "Toffee-Nut Bars",
+      "category": "Dessert",
+      "creator": "Sharyl K.",
+      "ingredients": [
+        "Bottom layer: ½ cup butter, ½ cup brown sugar, 1 cup flour",
+        "Topping: 2 eggs, 1 cup brown sugar, 1 tsp salt, 1 cup chocolate chips, 1 tsp baking powder, 1 TBLS flour"
+      ],
+      "instructions": [
+        "Mix all ingredients for the bottom layer together and press into an ungreased 9x13 inch pan. Bake at 350° for 10 minutes.",
+        "For the topping, beat eggs then stir in the rest of the ingredients. Spread on the baked crust.",
+        "Return to the 350° oven and bake for 25 minutes."
+      ],
+      "notes": "A delicious bar with a crunchy base and a rich toffee-nut topping."
+    },
+    {
+      "id": 194,
+      "title": "Peanut Butter Cookies",
+      "category": "Baked Goods",
+      "creator": "Sharyl K.",
+      "ingredients": [
+        "1 cup butter",
+        "1 cup brown sugar",
+        "¾ cup sugar",
+        "1 egg",
+        "1 cup peanut butter",
+        "2 cups flour",
+        "2 tsp baking soda",
+        "½ tsp salt",
+        "1 cup quick oatmeal",
+        "1 cup mini chocolate chips"
+      ],
+      "instructions": [
+        "Cream butter and sugars, add egg and peanut butter.",
+        "Mix flour, soda, and salt. Add to the creamed mixture.",
+        "Add oatmeal and chocolate chips.",
+        "Shape into balls and place on a baking sheet.",
+        "Bake at 350° for 8-10 minutes."
+      ],
+      "notes": "A classic peanut butter cookie recipe with the delightful addition of chocolate chips."
+    },
+    {
+      "id": 195,
+      "title": "Spritz Cookies",
+      "category": "Baked Goods",
+      "creator": "Sharyl K.",
+      "ingredients": [
+        "1 ½ cups butter",
+        "1 cup sugar",
+        "1 egg",
+        "2 TBLS milk",
+        "½ tsp almond extract",
+        "1 tsp vanilla",
+        "4 cups flour",
+        "1 tsp baking powder"
+      ],
+      "instructions": [
+        "Cream sugar and butter. Add egg, milk, vanilla, and almond extract.",
+        "Add flour and baking powder. Mix well.",
+        "Do NOT chill the dough.",
+        "Use a cookie press to shape cookies on a baking sheet.",
+        "Bake at 400° for 6-8 minutes."
+      ],
+      "notes": "Delicate and buttery cookies, perfect for holidays or as a sweet treat."
+    },
+    {
+      "id": 196,
+      "title": "Sugar Cookies",
+      "category": "Baked Goods",
+      "creator": "Sharyl K.",
+      "ingredients": [
+        "1 cup powdered sugar",
+        "1 cup sugar",
+        "1 cup butter",
+        "1 cup oil",
+        "2 eggs",
+        "1 tsp vanilla",
+        "4 cups + 4 TBLS flour",
+        "1 tsp salt",
+        "1 tsp baking soda",
+        "1 tsp cream of tartar"
+      ],
+      "instructions": [
+        "Mix ingredients thoroughly.",
+        "Chill dough and roll into balls.",
+        "Dip into sugar and place on an ungreased cookie sheet.",
+        "Press with a glass.",
+        "Bake at 350° for 8-10 minutes."
+      ],
+      "notes": "Classic sugar cookies, perfect for decorating or enjoying as is."
     }
   ]
 }

@@ -8,7 +8,13 @@ import CategoriesPage from "./CategoriesPage.jsx";
 import RecipePage from "./RecipePage.jsx";
 import CategoryDetailPage from "./CategoryDetailPage.jsx";
 
-const AnimatedRoutes = ({ categories, authors, recipes, lastName }) => {
+const AnimatedRoutes = ({
+  categories,
+  authors,
+  recipes,
+  lastName,
+  InfoPage,
+}) => {
   const location = useLocation();
 
   // Refined animation settings
@@ -46,6 +52,19 @@ const AnimatedRoutes = ({ categories, authors, recipes, lastName }) => {
               exit="exit"
             >
               <HomePage lastName={lastName} />
+            </motion.div>
+          }
+        />
+        <Route
+          path="/InfoPage"
+          element={
+            <motion.div
+              variants={pageTransitions}
+              initial="initial"
+              animate="animate"
+              exit="exit"
+            >
+              <InfoPage />
             </motion.div>
           }
         />

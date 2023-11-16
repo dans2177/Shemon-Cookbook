@@ -3,6 +3,20 @@ import { Link } from "react-router-dom";
 import asideImage from "../assests/asideImage.png";
 
 const CategoriesPage = ({ categories, authors }) => {
+  // Hardcoded categories
+  const defaultCategories = [
+    "Main Dish",
+    "Side Dish",
+    "Baked Goods",
+    "Dessert",
+    "Other",
+  ];
+
+  // Filter out the unique categories that are not in the hardcoded list
+  const uniqueCategories = categories.filter(
+    (category) => !defaultCategories.includes(category)
+  );
+
   return (
     <div className="bg-yellow-700 min-h-screen flex overflow-hidden">
       {/* Authors Column */}
@@ -13,7 +27,7 @@ const CategoriesPage = ({ categories, authors }) => {
             <Link
               to={`/category/author/${author}`}
               key={index}
-              className="text-2xl font-playfairDisplay md:text-2xl py-2 block text-customTan hover:text-black"
+              className="text-lg font-playfairDisplay md:text-lg py-2 block text-customTan hover:text-black"
             >
               {author}
             </Link>
@@ -25,10 +39,21 @@ const CategoriesPage = ({ categories, authors }) => {
       <div className="w-1/2 p-4">
         <div className="flex flex-col gap-4 overflow-y-auto ">
           <h2 className="pt-10 ml-4 text-lg font-montserrat">Categories</h2>
-          {categories.map((category, index) => (
+          {/* Render hardcoded categories */}
+          {defaultCategories.map((category, index) => (
             <Link
               to={`/category/${category}`}
-              key={index}
+              key={`default-${index}`}
+              className="text-4xl md:text-6xl font-bebas p-4 hover:bg-customTan"
+            >
+              {category}
+            </Link>
+          ))}
+          {/* Render unique categories */}
+          {uniqueCategories.map((category, index) => (
+            <Link
+              to={`/category/${category}`}
+              key={`unique-${index}`}
               className="text-4xl md:text-6xl font-bebas p-4 hover:bg-customTan"
             >
               {category}
@@ -41,8 +66,8 @@ const CategoriesPage = ({ categories, authors }) => {
         className="relative hidden h-screen lg:flex md:flex-col md:justify-end md:w-1/4"
         style={{
           backgroundImage: `url(${asideImage})`,
-          backgroundSize: "cover", // Covers the entire div area
-          backgroundRepeat: "no-repeat", // repeat
+          backgroundSize: "cover",
+          backgroundRepeat: "no-repeat",
         }}
       ></div>
     </div>

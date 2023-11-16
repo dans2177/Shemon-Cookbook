@@ -28,8 +28,8 @@ const HomePage = ({ lastName }) => {
           </button>
           <br />
           <button
-            className="text-xs  text-montserrat border-black tracking-widest	 border-2 bg-transparent hover:bg-purple-700 hover:text-white text-black  py-3 px-6 my-4 transition duration-300 ease-in-out"
-            onClick={() => navigate("/categories")}
+            className="text-xs text-montserrat border-black tracking-widest border-2 bg-transparent hover:bg-purple-700 hover:text-white text-black py-3 px-6 my-4 transition duration-300 ease-in-out"
+            onClick={() => navigate("/InfoPage")}
           >
             Add/Edit Recipe
           </button>
