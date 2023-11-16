@@ -15,7 +15,7 @@ const HomePage = ({ lastName }) => {
           </p>
           <hr className="border-t-2 border-black w-full mx-auto" />
         </div>
-        <div className="text-left m-8">
+        <div className="text-center md:text-left m-8">
           <h1 className="text-6xl lg:text-9xl font-bebas mb-10 lg:mb-28">
             {lastName}
             <br /> Cookbook.

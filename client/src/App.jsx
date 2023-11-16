@@ -26,16 +26,18 @@ function App() {
   }, []);
 
   return (
-    <Router>
-      <AnimatedRoutes
-        categories={categories}
-        authors={authors}
-        recipes={recipes}
-        lastName={lastName}
-        InfoPage={InfoPage}
-      />
-      <BackButton />
-    </Router>
+    <div className="safe-area">
+      <Router>
+        <AnimatedRoutes
+          categories={categories}
+          authors={authors}
+          recipes={recipes}
+          lastName={lastName}
+          InfoPage={InfoPage}
+        />
+        <BackButton />
+      </Router>
+    </div>
   );
 }
 
